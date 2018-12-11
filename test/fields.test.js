@@ -2,13 +2,19 @@ const assume = require('assume');
 const fields = require('../fields');
 
 describe('fields', function () {
-  it('should expose name mappings & ignores', () => {
+  it('should expose name mappings, ignores & control fields', () => {
     assume(fields.names).is.an('object');
-    assume(fields.ignore).is.an('array');
+    assume(fields.ignore).is.an('object');
+    assume(fields.control).is.an('object');
+  });
+
+  it('should have expected control fields', () => {
+    assume(fields.control.start).equals('BOOS');
+    assume(fields.control.end).equals('BOOE');
   });
 
   it('should have expected ignores', () => {
-    assume(fields.ignore.sort()).deep.equals(
+    assume(Object.keys(fields.ignore).sort()).deep.equals(
       ['ABLE', 'BIND', 'BOOE', 'BOOS', 'EDTN', 'TRAN', 'UBID', 'UPTM']
     );
   });

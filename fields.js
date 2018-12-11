@@ -1,18 +1,27 @@
+/**
+ * Control fields (Book Start, Book End)
+ * @type {Object}
+ */
+const control = {
+  start: 'BOOS',
+  end: 'BOOE'
+};
 
 /**
  * Default values to ignore when processing a given entry
  * @type {Array}
  */
-const ignore = [
-  'UBID', // Internal ABE Book ID
-  'BOOS', // Book Start
-  'BOOE', // Book End
-  'UPTM', // Last Updated (Time)
-  'ABLE', // Locatable?
-  'TRAN', // Unknown (Values ['A', 'D'] observed)
-  'BIND', // Unknown (Values ['H', 'S'] observed)
-  'EDTN'  // Unknown (Values ['F'] observed)
-];
+const ignore = {
+  'UBID': 'Internal ABE Book ID',
+  'BOOS': 'Book Start',
+  'BOOE': 'Book End',
+  'UPTM': 'Last Updated (Time)',
+  'ABLE': 'Locatable?',
+  'JACK': `Unknown (Values ['J'] observed)`,
+  'TRAN': `Unknown (Values ['A', 'D'] observed)`,
+  'BIND': `Unknown (Values ['H', 'S'] observed)`,
+  'EDTN': `Unknown (Values ['F'] observed)`
+};
 
 /**
  * Mapping of field ids to descriptive names
@@ -40,7 +49,7 @@ const names = {
 
   // Condition
   BOOC: 'book-condition',
-  JACK: 'jacket-condition',
+  JCKC: 'jacket-condition',
   BNDC: 'binding',
 
   // Publisher
@@ -56,5 +65,6 @@ const names = {
 
 module.exports = {
   names,
-  ignore
+  ignore,
+  control
 };
