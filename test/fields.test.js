@@ -15,7 +15,7 @@ describe('fields', function () {
 
   it('should have expected ignores', () => {
     assume(Object.keys(fields.ignore).sort()).deep.equals(
-      ['ABLE', 'BIND', 'BOOE', 'BOOS', 'EDTN', 'TRAN', 'UBID', 'UPTM']
+      ['ABLE', 'BIND', 'BOOE', 'BOOS', 'EDTN', 'JACK', 'TRAN', 'UBID', 'UPTM']
     );
   });
 
@@ -23,14 +23,13 @@ describe('fields', function () {
     const keys = Object.keys(fields.names);
     const values = Object.values(fields.names);
 
-    assume(values.sort()).deep.equals([
-      'ISBN',
+    assume(values.sort()).deep.equals([ 'ISBN',
       'author',
       'binding',
       'book-condition',
       'book-number',
       'book-type',
-      'category',
+      'categories',
       'comments',
       'cost',
       'description',
@@ -59,7 +58,7 @@ describe('fields', function () {
       'EDNT',
       'INAM',
       'ISBN',
-      'JACK',
+      'JCKC',
       'PBLS',
       'PBPL',
       'PBYR',
