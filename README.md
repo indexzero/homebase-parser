@@ -54,7 +54,7 @@ BOOE|
 And why would there be? The software itself is more or less dead. So why make
 this? Because books – lots of books (seriously don't ask).
 
-#### AUTHOR: [Charlie Robbins][https://github.com/indexzero]
+#### AUTHOR: [Charlie Robbins](https://github.com/indexzero)
 #### LICENSE: APACHE 2.0
 
 [ABE Homebase 2.3 User Guide]: https://www.abebooks.com/homebase/software-inventory-management-system-catalog/user-guide/homebase2.3-user-guide.pdf
