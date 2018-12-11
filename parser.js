@@ -48,7 +48,7 @@ module.exports = class Parser {
 
   parse(text) {
     text
-      .split('\n')
+      .split(/\r?\n/)
       .forEach(this.parseLine);
   }
 
