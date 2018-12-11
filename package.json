@@ -27,7 +27,7 @@
     "homebase"
   ],
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/indexzero/homebase-parser/issues"
   },
