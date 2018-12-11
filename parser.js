@@ -86,7 +86,7 @@ module.exports = class Parser {
 
     if (types[field]) {
       const parsed = types[field](value, this.current);
-      if (parsed) {
+      if (typeof parsed !== 'undefined') {
         this.current[name] = parsed;
       }
     } else {

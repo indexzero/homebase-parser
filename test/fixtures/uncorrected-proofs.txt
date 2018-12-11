@@ -1,0 +1,3771 @@
+HDRS|
+PRCT|HBV3.0
+DATE|12/7/2018 11:18:59 PM
+TIME|23:18:59
+HVER|2.3.30
+USER|anyuser
+COMM|
+SYST|PROD
+FNAM|C:\Users\User\uncorrected-proofs.txt
+HPFM|
+HDRE|
+BOOS|
+BOOK|000330
+TRAN|A
+ANAM|Barth, John
+TNAM|Coming Soon!!!
+PBLS|Houghton, Mifflin & Co.
+DESC|Softcover Advance Proof copy bound like a large-format trade paperback with DJ art on front cover and promotional information on back cover. Light edge wear in a few spots, along with a few light scuff marks; otherwise tight, clean and unread. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:04:49 PM
+BCAT|Modern First Editions
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0618131655
+UBID|365
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|Boston
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000332
+TRAN|A
+ANAM|Alumit, Noel
+TNAM|Letters to Montgomery Clift
+PBLS|MacAdam/Cage
+DESC|Softcover Advance Proof copy of author's first novel. Proof is bound like a large-format trade paperback with DJ art on front cover and promotional information on back cover. Light edge wear in a few spots, slight wear from storage, S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:45:35 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1931561028
+UBID|367
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|San Francisco
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000333
+TRAN|A
+ANAM|Jacques, Brian
+TNAM|The Legend of Luke: A Tale from Redwall
+PBLS|Philomel Books
+DESC|Softcover Advance Reading Copy of 12th book in the author's Redwall saga. ARC is bound in heavy coated paper like a large trade paperback with jacket art on front cover and promotional information on back cover. Light edge wear to covers in a few places, otherwise, tight & squared, clearly unread, a  nice copy of the scarce ARC of this title. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:06:28 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|039923490X
+UBID|368
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000334
+TRAN|A
+ANAM|Niven, Jennifer
+TNAM|The Ice Master: The Doomed 1913 Voyage of the Karluk
+PBLS|Hyperion
+DESC|Softcover Advance Uncorrected Proof of author's first book, the story of the 1913 Arctic Expedition of the Karluk that ended in disaster. Proof is bound in paper covers like a large trade paperback. Light wear to covers, tight & clean inside, clearly unread, a nice copy! S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:09:01 PM
+BCAT|Non-Fiction: Exploration/True Adventure
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786865296
+UBID|369
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000336
+TRAN|A
+ANAM|Audley, Anselm
+TNAM|Heresy
+PBLS|Pocket Books
+DESC|Softcover Advance Reading Copy bound like a large-format trade paperback in glossy covers with DJ art on front cover and promotional information on back cover. Fine condition. Light edge wear in a few spots, otherwise tight, clean and unread.
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:10:23 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743427386
+UBID|371
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000339
+TRAN|A
+ANAM|Diski, Jenny
+TNAM|Only Human
+PBLS|Picador
+DESC|Softcover Advance Uncorrected Proof bound like trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight shelf wear to covers, otherwise tight & clean, a very nice unread copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:50:20 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312280548
+UBID|374
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000340
+TRAN|A
+ANAM|Burgess, Melvin
+TNAM|Bloodtide
+PBLS|TOR
+DESC|Softcover Advance Uncorrected Proof bound like trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight shelf wear to covers, otherwise tight & clean, a very nice unread copy. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:51:34 PM
+BCAT|Science Fiction
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0765300486
+UBID|375
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|3
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000341
+TRAN|A
+ANAM|Gadol, Peter
+TNAM|Light at Dusk
+PBLS|Picador
+DESC|Softcover Advance Uncorrected Proof bound like trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight shelf wear to covers, otherwise tight & clean, a very nice unread copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:52:52 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312203365
+UBID|376
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000343
+TRAN|A
+ANAM|Stern, Richard
+TNAM|Pacific Tremors
+PBLS|Northwestern University Press
+DESC|Softcover Advance Proof Copy bound like a large-format trade paperback in glossy covers with Dust Jacket art on front cover and publisher's promotional information on back cover. Slight edgewear, otherwise tight & squared, clean throughout, clearly unread, a nice copy. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:49:15 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0810151316
+UBID|378
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|Evanston, IL
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000345
+TRAN|A
+ANAM|Tate, James
+TNAM|Memoir of the Hawk
+PBLS|Ecco Press/HarperCollins
+DESC|Advance Uncorrect Proof of new collection by the Pulitzer Prize and National Book Award-winning Poet. Proof is bound in heavy white paper wraps like a large-format trade paperback with promo information on front and back covers. NF condition. Light wear to covers in a few places, otherwise as issued -- tight, clean & unread. Nice copy. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:47:35 AM
+BCAT|Poetry
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0066210178
+UBID|380
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000346
+TRAN|A
+ANAM|John Farrow
+TNAM|Ice Lake
+PBLS|Random House
+DESC|Softcover Advance Uncorrected Proof Copy of Author's second mystery featuring detective Emile Cinq-Mars of the Montreal Police Department. ARC is bound like a large-format trade paperback in stiff wraps patterned with Random House logo and promo information on front cover. Fine condition -- slight edgewear,otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/11/2010
+UPTM|8:05:00 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|037550141x
+UBID|381
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000347
+TRAN|A
+ANAM|Robbins, Harold
+TNAM|Never Enough
+PBLS|Forge/Tom Doherty
+DESC|Softcover Advance Uncorrected Proof copy bound like a large-format trade paperback in stiff green wraps. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:48:35 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0765300001
+UBID|382
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000348
+TRAN|A
+ANAM|Jackson, Edwardo
+TNAM|Ever After
+PBLS|Villard
+DESC|Softcover Advance Uncorrected Proof copy bound like a large-format trade paperback in glossy white wraps with Villard logo and promo information on front cover. NF condition -- issue date code at bottom of spine, slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:50:02 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375506365
+UBID|383
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000350
+TRAN|A
+ANAM|Gardam, Jane
+TNAM|The Flight of the Maidens
+PBLS|Carroll & Graf
+DESC|Softcover Advance Uncorrected Proof copy bound like a large-format trade paperback in glossy wraps with DJ art on front cover and promo information on back cover. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. H-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|12/4/2010
+UPTM|11:36:26 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786708794
+UBID|385
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|Half Box HALL SHELF 9 (BOTTOM-LEFT SHELF) 
+BOOE|
+BOOS|
+BOOK|000351
+TRAN|A
+ANAM|Fulton, John
+TNAM|Retribution
+PBLS|Picador
+DESC|Softcover Advance Uncorrected Proof copy of author's first collection of short stories. Proof is bound like a trade paperback in glossy wraps with DJ art on front cover and promo information on back cover. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:43:58 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Short Stories
+ABLE|1
+ISBN|031227680x
+UBID|386
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000352
+TRAN|A
+ANAM|Klawans, Harold
+TNAM|Defending the Cavewoman And Other Tales of Evolutionary Neurology
+PBLS|Norton
+DESC|Softcover Advance Uncorrected Proof copy bound like a trade paperback in glossy wraps with DJ art on front cover and promo information on back cover. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:49:56 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0393048314 
+UBID|387
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000353
+TRAN|A
+ANAM|Philip, Leila
+TNAM|A Family Place: A Hudson Valley Farm, Three Centuries, Five Wars, One Family
+PBLS|Viking
+DESC|Softcover Advance Uncorrected Proof of author's first-person account of her search for her roots in a Hudson Valley mansion named Talavera. Proof is bound like a trade paperback in glossy wraps with DJ art on front cover and promo information on back cover. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:51:06 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0670030139
+UBID|388
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000355
+TRAN|A
+ANAM|Southern, Nile; Friedman, Josh Alan [Editors]
+TNAM|Now Dig This: The Unspeakable Writings of Terry Southern 1950-1995
+PBLS|Grove Press
+DESC|Softcover Advance Uncorrected Proof copy bound like a trade paperback in glossy wraps with DJ art on front cover and promo information on back cover. Fine condition -- slight edgewear, otherwise as issued -- tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:46:55 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0802116892
+UBID|390
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000384
+TRAN|A
+ANAM|Schrank, Robert
+TNAM|Wasn't That a Time? Growing Up Radical and Red in America
+PBLS|MIT Press
+SUB1|Communism, Radicalism, Labor Movement
+DESC|Advance Uncorrect Proof of author's memoir about life in the American left. Proof is bound in stiff red wraps like a large-format trade paperback with promo information on front and back covers. NF condition. Slight edge wear to covers; publicist has crossed out "June" and written "July" next to publication date on front cover; otherwise tight & clean, clearly unread, a nice proof copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|9:56:10 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+ABLE|1
+ISBN|0262193892
+UBID|420
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|Cambridge, MA
+PBYR|1998
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000385
+TRAN|A
+ANAM|Drabble, Margaret
+TNAM|The Peppered Moth
+PBLS|Harcourt Inc.
+DESC|Advance Uncorrect Proof bound in stiff yellow wraps like a large-format trade paperback with title on front cover and promo information on back cover. Fine condition. Slight edge wear to covers; otherwise tight & clean, clearly unread, a nice proof copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|9:52:37 AM
+BCAT|Modern First Editions
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0151005214
+UBID|421
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000387
+TRAN|A
+ANAM|Genberg, Ira
+TNAM|Reckless Homicide
+PBLS|St. Martin's
+DESC|Advance Reading Copy bound in glossy wraps like a large-format trade paperback of author's first novel, a legal thriller that received an Edgar Award nomination. ARC has DJ art  on front cover and promo information on back cover. Fine condition. Slight edge wear to covers; otherwise tight & clean, clearly unread, a nice proof copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|9:57:22 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|031217974x
+UBID|423
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1998
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000389
+TRAN|A
+ANAM|Barker, A.L.
+TNAM|The Haunt
+PBLS|Carroll & Graf
+DESC|Advance Uncorrect Proof of Booker Prize-nominee's novel set on the Cornish Coast. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and promo information on back cover. Fine condition. Slight edge wear to covers; otherwise tight & clean, clearly unread, a nice proof copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:12:03 AM
+BCAT|Modern First Editions
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786707844
+UBID|425
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000390
+TRAN|A
+ANAM|Knox, Elizabeth
+TNAM|Black Oxen
+PBLS|Farrar, Straus & Giroux
+DESC|Uncorrect Proof of Sci Fi novel about a woman tracking down the mystery behind her paternity set in the mid-21st century. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and promo information on back cover. Fine condition. Slight edge wear to covers; otherwise tight & clean, clearly unread, a nice proof copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:13:49 AM
+BCAT|Science Fiction
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0374114056
+UBID|426
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000501
+TRAN|A
+ANAM|Nye, Robert
+TNAM|Mrs. Shakespeare: The Complete Works
+PBLS|Arcade
+SUB1|Shakespeare, Anne Hathaway
+DESC|SOFTCOVER Advance Uncorrected Proof of Nye's novel about Shakespeare presented as the memoirs of The Bard's wife, Anne Hathaway, written seven years after Shakepeare's death. Proof is bound in wraps like a trade paperback with cover art on front cover and promo information on back cover. NF condition. A few small scratches and minor edge wear to covers; otherwise as issued -- tight, clean and unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:54:50 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1559705523
+UBID|539
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Galley/Proof
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000680
+TRAN|A
+ANAM|McCarthy, Susan Carol
+TNAM|Lay A Trumpet in Our Hands
+PBLS|Bantam
+DESC|SOFTCOVER Advance Reading Copy of author's First Novel. ARC is bound in tan paper covers like a trade paperback with title and publication data on front cover, promo information on back cover, and cover art bound in as first bound page. NF condition. Light edge wear and a few small light smudges to covers; otherwise as issued -- tight, clean and unread. Nice copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:56:28 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0553801694
+UBID|722
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000743
+TRAN|A
+ANAM|Cowan, Andrew
+TNAM|Crustaceans
+PBLS|Picador
+DESC|SOFTCOVER Advance Uncorrected Proof of author's third novel. Proof is bound in glossy wraps like a trade paperback with cover art on front cover and promo information on back cover. NF condition. Light edge wear; a few small scratches and scuff marks to covers; smudge on bottom ends; otherwise as issued -- tight, clean and unread. Nice copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|11/30/2010
+UPTM|5:23:21 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312283105
+UBID|789
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000744
+TRAN|A
+ANAM|Marcuse, Irene
+TNAM|Guilty Mind
+PBLS|Walker & Co.
+DESC|SOFTCOVER Advance Uncorrected Proof of author's second mystery novel featuring Anita Servi of Manhattan's Upper-Upper West Side. Proof is bound in glossy wraps like a trade paperback with DJ cover art on front cover and promo information on back cover. NF condition. Light edge wear; a few small scratches and scuff marks to covers; slight smudge on bottom ends; otherwise as issued -- tight, clean and unread. Nice copy. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|11/30/2010
+UPTM|5:22:55 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0802733549
+UBID|791
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000752
+TRAN|A
+ANAM|Frommer, Harvey and Frommer, Frederic
+TNAM|Growing Up Baseball: An Oral History
+PBLS|Taylor Trade Publishing
+DESC|SOFTCOVER Advance Proof copy bound like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Some crimping along spine; light edge wear to covers; slight curl to front cover; tight & clean inside; appears to be unread. Nice copy. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:58:11 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Sports: Baseball
+ABLE|1
+ISBN|0878331867
+UBID|799
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Glossy Wraps
+PBPL|Dallas, TX
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000753
+TRAN|A
+ANAM|Torrey, Joanna
+TNAM|He Goes, She Goes
+PBLS|Crown
+DESC|SOFTCOVER Uncorrected Proof copy of author's first novel, bound like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Small crease on front cover, top-left (as bound by publisher); crimp at bottom-left corner of front cover; otherwise as issued, tight & clean, clearly unread. Nice copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:59:11 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0609601237
+UBID|800
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000764
+TRAN|A
+ANAM|Faulks, Sebastian
+TNAM|On Green Dolphin Street
+PBLS|Random House
+DESC|SOFTCOVER Advance Reader's Edition of novel about a woman undergoing a transfromation during Eisenhower era, the author's first novel set in the U.S.  ARC is bound in glossy paper wraps like a large-format trade paperback with cover art on front cover and promo information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:12:44 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375502254
+UBID|811
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000768
+TRAN|A
+ANAM|Thorpe, Nick
+TNAM|8 Men and a Duck: An Improbable Voyage by Reed Boat to Easter Island
+PBLS|Free Press
+DESC|SOFTCOVER Advance Uncorrected Proof of account by an award-winning travel writer of 2,500-mile journey from South America to Easter Island in a recreation of a pre-Inca reed boat.  Proof is bound in glossy paper wraps like a large-format trade paperback with cover art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Publisher's cover letter laid in. Nice copy. S-9
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|6/11/2010
+UPTM|8:06:03 AM
+BCAT|Non-Fiction: Exploration/True Adventure
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743219287
+UBID|816
+EDNT|Uncorrected Proof
+BNDC|Glossy Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000770
+TRAN|A
+ANAM|Gleick, James
+TNAM|What Just Happened: A Chronicle From the Information Frontier
+PBLS|Pantheon
+DESC|SOFTCOVER Advance Uncorrected Bound Galley of new chronicle of how technology has rearranged our world, by the author of Chaos.  Proof is bound in heavy red paper wraps like a trade paperback with title and publication information on front cover and synopsis on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Nice copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|1:00:23 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375421777
+UBID|818
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000774
+TRAN|A
+ANAM|Leschak, Peter M.
+TNAM|Ghosts of the Fairground: Echoes of the Great Peshtigo Fire and the Calling of a Wildland Firefighter
+PBLS|HarperCollins
+DESC|SOFTCOVER Advance Uncorrected Proof of first-hand account by veteran firefighter of life on the fireline through the lens of the author's discovery of the diary of a survivor of the catastrophic wildfire that hit Peshtigo, Wisconsin in 1871.  Proof is bound in glossy paper wraps like a large-format trade paperback with cover art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Nice copy.
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|10/3/2002
+UPTM|8:38:14 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|0062517775
+UBID|822
+EDNT|Uncorrected Proof
+BNDC|Glossy Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Copy 1: SOLD ON HALF.COM FOR $11.95 ON 8/5/02                                                 Copy 2: SOLD ON HALF.COM FOR $11.95 ON 9/15/02                                                      Copy 3: Posted on 10/3/02
+BOOE|
+BOOS|
+BOOK|000788
+TRAN|A
+ANAM|Peale, Cynthia
+TNAM|The White Crow: A Beacon Hill Mystery
+PBLS|Doubleday
+DESC|SOFTCOVER Advance Uncorrected Proof of author's third mystery set in Victorian Boston, this one centered around a death at a seance, featuring amateur sleuths Caroline and Addington Ames. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and promotional information on back cover. VG+ condition. Diagonal crease on front cover, bottom-right; a few light scuff marks and slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Nice copy.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|7/2/2002
+UPTM|5:12:12 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN| 0385496389
+UBID|837
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|VG+
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box -- SOLD VIA ABE 5/6/02 / Second Copy listed on 7/2/02
+BOOE|
+BOOS|
+BOOK|000792
+TRAN|A
+ANAM|Heppner, Mike
+TNAM|The Egg Code
+PBLS|Knopf
+DESC|SOFTCOVER Advance Uncorrected Proof of author's first novel.  Proof is bound in red paper wraps like a large-format trade paperback with Title and publication information on front cover, blank back cover, and DJ art bound in as first bound page. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Nice copy. S-9
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|6/11/2010
+UPTM|8:06:43 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375412905
+UBID|841
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000803
+TRAN|D
+ANAM|De Courcy, Ann
+TNAM|The Viceroy's Daughters: The Lives of the Curzon Sisters
+PBLS|William Morrow
+DESC|SOFTCOVER Advance Uncorrected Proof of biography of the the three daughters of Lord Curzon of India, who were at the heart of British society in the 1920s and 1930s. Proof is bound in bluer paper wraps like a large-format trade paperback with Title and Publication Information on front cover and blank back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. Nice copy.
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|12/30/2002
+UPTM|7:48:37 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+ABLE|1
+ISBN|0066210615
+UBID|852
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|Sold
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|000822
+TRAN|A
+ANAM|Ziegler, Philip
+TNAM|Soldiers: Fighting Men's Lives 1901-2001
+PBLS|Knopf
+DESC|SOFTCOVER Advance Uncorrected Proof copy of book that explores the world of soldiering through the eyes of nine veterans of the British military whose wartime experiences span the 20th century. Proof is bound in gray paper wraps like a trade paperback with title and publication information on front cover, blank back cover, and DJ art bound in as first bound page. NF condition. Slight crease along spine on front cover; light edge wear to covers; slight curl to front cover; otherwise as issued -- tight, clean and unread. Nice copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/16/2010
+UPTM|11:01:27 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Military
+ABLE|1
+ISBN|0375412069
+UBID|872
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000823
+TRAN|A
+ANAM|Kramer, Jane
+TNAM|Lone Patriot: The Short Career of an American Militiaman
+PBLS|Pantheon
+DESC|SOFTCOVER Advance Uncorrected Proof copy of profile of the commander-in-chief of would-be patriot army called the Washington State Militia written by New Yorker Magazine writer who has authored the "Letter from Europe" feature for many years. Proof is bound in pale blue paper wraps like a trade paperback with title and publication information on front cover, and promotional information  on back cover. NF condition. A few scuff marks and small smudges to covers, along with some light edge wear; slight curl to front cover; otherwise as issued -- tight, clean and unread. Nice copy. s-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/16/2010
+UPTM|11:03:14 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|067944873x
+UBID|873
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC| -- SOLD VIA ABE 6/30/02 / Second copy posted 7/2/02. SHELF 9
+BOOE|
+BOOS|
+BOOK|000825
+TRAN|A
+ANAM|Decure, John
+TNAM|Reef Dance
+PBLS|St. Martin's / Minotaur
+DESC|SOFTCOVER Advance Uncorrected Proof of author's first mystery, about a wayward surfer turned lawyers who "discovers the surprising secret of his own family's demise" while navigating the Family Court system. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Light edge wear to covers; otherwise as issued -- tight, clean and unread. Nice copy.
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|4/24/2002
+UPTM|6:31:49 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312272979
+UBID|875
+EDNT|Uncorrected Proof
+BNDC|Glossy Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|000858
+TRAN|A
+ANAM|Renehan, Edward J. Jr.
+TNAM|The Kennedys at War 1937-1945
+PBLS|Doubleday
+SUB1|John F. Kennedy, President Kennedy, Kennedy Family, Kennedys
+DESC|SOFTCOVER Uncorrected Proof of new book about the Kennedy family during World War II. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight & clean, clearly unread. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:51:02 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|038550165x
+UBID|908
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000860
+TRAN|A
+ANAM|Due, Tananarive
+TNAM|The Between
+PBLS|HarperCollins
+DESC|SOFTCOVER Advance Reading Copy from uncorrected manuscript of author's first novel, a tale of horror and the supernatural in which a middle-class African-American family's existence is threatened by inner and outer demons. ARC is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear and a few light scratches to covers; otherwise as issued -- tight & clean, clearly unread. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|11/30/2010
+UPTM|5:24:10 PM
+BCAT|Horror
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0060172509
+UBID|911
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1995
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000862
+TRAN|A
+ANAM|Adelman, Kim
+TNAM|The Girls' Guide to Elvis: The Clothes, The Hair, The Women and More!
+PBLS|Broadway Books
+SUB1|Elvis Presley, The King
+DESC|SOFTCOVER Uncorrected Proof/Bound Galley of Trade Paperback about the world of Elvis, "packed with all the stories, photographs, and fun facts that girls crave about their favorite star."  Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear and a few light scratches to covers; otherwise as issued, tight & clean, clearly unread. 
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|5/2/2002
+UPTM|8:52:32 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0767911881
+UBID|913
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|000866
+TRAN|A
+ANAM|Flint, Eric and Roach, Richard
+TNAM|Forward the Mage
+PBLS|Baen
+DESC|SOFTCOVER Uncorrected Proof bound in glossy wraps like a large-format trade paperback with DJ art by Larry Gilmore on front cover and blank back cover. Fine condition. Slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. Nice copy!
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/2/2002
+UPTM|9:37:30 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743435249
+UBID|917
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|Riverdale, NY
+PBYR|2002
+BOOC|Fine
+INAM|Gilmore, Larry / Cover Art
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|000867
+TRAN|A
+ANAM|Authers, John and Wolffe, Richard
+TNAM|The Victim's Fortune: Inside the Epic Battle Over the Debts of the Holocaust
+PBLS|HarperCollins
+SUB1|Holocaust, Reparations
+DESC|SOFTCOVER Uncorrected Proof of new book about the decades-long fight to recover the fortunes of the victims of the Holocaust. Proof is bound in brown paper wraps like a large-format trade paperback with title and publication information on front cover and synopsis on back cover. NF condition. Small nick to top edge of front cover, center; faint spot on fore-edge of text block near top corner; small scuff mark on back cover, bottom-right; slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. 
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|5/2/2002
+UPTM|9:47:20 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+BCAT|Judaica
+ABLE|1
+ISBN|0066212642
+UBID|918
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|000868
+TRAN|A
+ANAM|Nothdurft, William and Smith, Josh
+TNAM|The Lost Dinosaurs of Egypt
+PBLS|Random House
+SUB1|Dinosaurs, Paleontology
+DESC|SOFTCOVER Advance Reader's Edition of new book about the discovery of dinosaur fossils in the land of the Pharoahs. ARC is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|9:58:45 AM
+BCAT|Non-Fiction: Exploration/True Adventure
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Paleontology
+ABLE|1
+ISBN|0375507957
+UBID|919
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000911
+TRAN|A
+ANAM|D'Orso, Michael
+TNAM|Pludering Paradise: The Hand of Man on the Galapagos Islands
+PBLS|HarperCollins
+SUB1|Galapagos
+DESC|SOFTCOVER Advance Uncorrected Proof of book about the Galapagos Islands and man's effect the environment of the islands. Proof is bound in yellow paper wraps like a large-format trade paperback with title and  and publication information on front cover and blank back cover. Fine condition. Light shelf wear, otherwise as issued, tight & clean, clearly unread. H-5
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|11/30/2010
+UPTM|5:17:53 PM
+BCAT|Non-Fiction: Exploration/True Adventure
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+UBID|964
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALL SHELF 5 (FOUR SHELVES BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|000923
+TRAN|A
+ANAM|Klempner, Joseph T.
+TNAM|Irreparable Damage
+PBLS|St. Martin's
+DESC|SOFTCOVER Advance Uncorrected Proof of author's 5th novel, scheduled for June 2002 release. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light shelf wear, otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:36:19 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312283032
+UBID|977
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF9
+BOOE|
+BOOS|
+BOOK|000924
+TRAN|A
+ANAM|Kubica, Chris & Hochman, Will [Editors]
+TNAM|Letters to J.D. Salinger
+PBLS|University of Wisconsin Press
+DESC|SOFTCOVER Advance Uncorrected Proof of collection of letters from the jdsalingerdotcom Web site. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light bump to top of spine; light shelf wear in a few places elsewhere; otherwise as issued, tight & clean, clearly unread.  S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:14:28 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0299178005
+UBID|979
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|Madison, WI
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000927
+TRAN|A
+ANAM|Cobb, James H.
+TNAM|Target Lock
+PBLS|G.P. Putnam's Sons
+DESC|SOFTCOVER Advance Uncorrected Proof of author's fourth Amanda Lee Garrett naval thriller. Proof is bound in gray paper wraps like a trade paperback with title on front cover and promo information on back cover. Fine condition. Slight shelf wear in a few places, otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:42:23 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Action/Adventure
+ABLE|1
+ISBN|0399148493
+UBID|982
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000994
+TRAN|A
+ANAM|Cockey, Tim
+TNAM|The Hearse Case Scenario
+PBLS|Hyperion
+SUB1|Hitchcock Sewell
+DESC|SOFTCOVER Advance Uncorrected Proof of author's 3rd mystery featuring Baltimore undertaker/PI Hitchcock Sewell. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light shelf wear and a few small scuff marks, otherwise tight & clean, appears to be an unread copy. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:16:16 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786867116
+UBID|1049
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|000995
+TRAN|A
+ANAM|Ebershoff, David
+TNAM|Pasadena
+PBLS|Random House
+DESC|SOFTCOVER Advance Uncorrected Proof of epic family saga set in early twentieth-century California by the author of The Danish Girl. Proof is bound in heavy coated paper wraps like a large-format trade paperback with Title and publication information on front cover inside design motif based on Random House logo, with DJ art and publicity information bound in as first two pages. Fine condition. Slight shelf wear, otherwise tight & clean, clearly unopened and unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|9/20/2002
+UPTM|7:34:52 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375504567
+UBID|1050
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box -- SOLD FOR $8.95 ON HALF.COM ON 7/8/02                                                        Copy 2 -- Posted 9/20/02
+BOOE|
+BOOS|
+BOOK|001021
+TRAN|A
+ANAM|Crossley-Holland, Kevin
+TNAM|Arthur Trilogy Book One: The Seeing Stone
+PBLS|Scholastic Press
+DESC|SOFTCOVER Advance Uncorrected Proof of first book in the author's Arthur trilogy. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. 
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|6/25/2002
+UPTM|6:05:12 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0439263263
+UBID|1076
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001022
+TRAN|A
+ANAM|Jordan, Pat
+TNAM|a.k.a. Sheila Doyle
+PBLS|Carroll & Graf
+DESC|SOFTCOVER Advance Uncorrected Proof of new mystery by the author of A False Spring, A Nice Tuesday and The Black Coach. Proof is bound in red paper wraps like a large-format trade paperback with title on front cover and publication information on back cover. Fine condition. Slight edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:37:54 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786710268
+UBID|1077
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001032
+TRAN|A
+ANAM|Picciotto, Richard [FDNY Battalion Commander] & Paisner, Daniel
+TNAM|Last Man Down: A New York City Fire Chief and the Collapse of the World Trade Center
+PBLS|Berkley
+SUB1|9/11, World Trade Center
+DESC|SOFTCOVER Uncorrected Proof of first-person account of the collapse of the World Trade Center by NYFD battalion chief and veteran of the 1993 World Trade Center bombing, who was buried under rubble for four hours on 9/11 because he stayed behind to rescue civilians. Proof is bound in glossy wraps like a trade paperback with Title on front cover and synopsis on back cover. NF condition. Light edge wear to covers in a few places; small diagonal crease on front cover, bottom-left;  otherwise as issued, tight & clean, clearly unread.  
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|9/20/2002
+UPTM|9:13:15 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0425186776
+UBID|1087
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box -- SOLD FOR $11.95 ON HALF.COM 7/7/02                                                            Copy 2 -- Posted on 9/20/02
+BOOE|
+BOOS|
+BOOK|001055
+TRAN|A
+ANAM|Christianson, Gale E.
+TNAM|The Last Posse
+PBLS|Lyons Press
+DESC|SOFTCOVER Advance Uncorrected Proof of book about a 1912 Nebraska manhunt for escaped killers that became the last known use to the posse in the annals of Western Justice. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. Publisher's press release laid in.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|7/12/2002
+UPTM|6:10:00 PM
+BCAT|Western Americana
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|1585743844
+UBID|1112
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001059
+TRAN|A
+ANAM|Lee, Tanith
+TNAM|The Secret Books of Venus, Book III: A Bed of Earth
+PBLS|Overlook Press
+DESC|SOFTCOVER Advance Uncorrected Proof of Book III in the author's Secret Books of Venus series. Proof is bound in heavy paper wraps like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light edge wear to covers in a few places; a few small smudges to ends; otherwise as issued, tight & clean, clearly unread. 
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|7/12/2002
+UPTM|6:24:34 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1585672610
+UBID|1116
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001062
+TRAN|A
+ANAM|Connelly, Michael
+TNAM|The Poet
+PBLS|Little, Brown
+DESC|SOFTCOVER Advance Reading Copy of author's first murder mystery not featuring his signature character, Harry Bosch. ARC is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. NF condition. Slight edge wear and a few light scratch marks to covers; otherwise as issued, tight & clean, clearly unread.S-9
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:54:10 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0316153982
+UBID|1119
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|Boston
+PBYR|1996
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|5
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001063
+TRAN|A
+ANAM|Bradley, Marion Zimmer
+TNAM|Exile's Song: A Novel of Darkover
+PBLS|DAW
+DESC|SOFTCOVER Advance Uncorrected Proof of 1996 novel in author's Darkover series. Proof is bound in heavy red paper wraps like a large-format trade paperback with title and publication information on front cover and blank back cover. NF condition. Light edge wear to covers in a few places; a few small smudges on bottom ends; erasure on first bound page, top-right, where price was penciled; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:54:29 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0886777054
+UBID|1120
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1996
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001065
+TRAN|A
+ANAM|Smith, Julie
+TNAM|82 Desire
+PBLS|Fawcett
+SUB1|Skip Langdon
+DESC|SOFTCOVER Uncorrected Proof of mystery featuring author's signature character, New Orleans Police Detective Skip Langdon. Proof is bound in heavy beige wraps like a large-format trade paperback with title  on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:52:26 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0449000605
+UBID|1122
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1998
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|2
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001069
+TRAN|A
+ANAM|Steinbeck, Thomas
+TNAM|Down to a Soundless Sea
+PBLS|Ballantine Books
+DESC|SOFTCOVER Advance Reading Copy of a collection of short stories by the son of John Steinbeck, the younger Steinbeck's first work of fiction after a career as photojournalist, cinematographer, and college professor. Proof is bound in coated wraps like a trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:59:51 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Short Stories
+ABLE|1
+ISBN|0345455762
+UBID|1126
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|ABE Only & Half. SHELF 9
+BOOE|
+BOOS|
+BOOK|001073
+TRAN|A
+ANAM|Shannon, John
+TNAM|Streets of Fire: A Jack Liffey Mystery
+PBLS|Carroll & Graf
+DESC|SOFTCOVER Uncorrected Proof of author's 5th mystery featuring PI Jack Liffey.  Proof is bound in coated wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued, tight & clean, clearly unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|7/14/2002
+UPTM|3:24:35 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786710187
+UBID|1130
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001077
+TRAN|A
+ANAM|Connelly, Michael
+TNAM|Trunk Music
+PBLS|Little, Brown
+DESC|Advance Reader's Edition of Connelly's 1997 entry in his series of Harry Bosch mysteries. The ARC is bound in glossy wraps as issued with jacket art on front cover and details about sales promotion on the back cover. Condition is NF.  Small diagonal crease on front cover, bottom-right; slight edge wear on bottom edge of bock cover in spots; small smudged area on bottom ends; slight dog-ear to first three bound pages; very tightly bound and clean throughout. Appears to be an unread copy. S-9
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:55:22 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0316152447
+UBID|1134
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|Boston
+PBYR|1997
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|3
+PDSC|ABE only. SHELF 9
+BOOE|
+BOOS|
+BOOK|001078
+TRAN|A
+ANAM|Straub, Peter
+TNAM|Mr. X
+PBLS|Random House
+DESC|Advance Uncorrected Proof of Straub's 1999 novel about a doppenganger and a fantastic family secret. Proof is bound in glossy wraps with details about the book's promotion bound in as the first page in the ARC. Condition is Fine. Tight and clean, clearly unread. A pristine copy. S-9
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:55:52 PM
+BCAT|Horror
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+UBID|1135
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|4
+PDSC|ABE Only. SHELF 9
+BOOE|
+BOOS|
+BOOK|001079
+TRAN|A
+ANAM|Sandford, John
+TNAM|Easy Prey
+PBLS|G.P. Putnam's Sons
+SUB1|Lucas Davenport
+DESC|SOFTCOVER Advance Proof/Uncorrected Manuscript of Sanford's 2000 Lucas Davenport mystery, an early proof in typescript with handwritten editing changes. Proof is bound in glossy wraps as issued, with jacket art on front cover and publicity information about promotion of the book on back cover. Condition is NF. Slight crease parallel to spine on front cover (as bound, it appears); very slight slant to binding; a few small areas of very light edge wear, otherwise very tightly bound with clean pages throughout. Clearly unread. S-9
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:56:37 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|039914613x
+UBID|1136
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|4
+PDSC|ABE Only. SHELF 9
+BOOE|
+BOOS|
+BOOK|001081
+TRAN|A
+ANAM|Dexter, Pete
+TNAM|Deadwood
+PBLS|Random House
+DESC|Advance Reading Copy of Dexter's novel about Wild Bill Hickok and the Old West, and the second novel overall published by the Pulitzer Prize-winning author of Paris Trout. ARC is bound in glossy wraps as issued with jacket art on front cover and letter from Random House executive to readers and publication information on back cover. Condition is NF. Light crease at top of front cover, center; a few areas of minor edge wear and slight toning; very tightly bound  with clean pages throughout; clearly unread. S-9
+PRIC|25
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:56:59 PM
+BCAT|Modern First Editions
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0394746104
+UBID|1138
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1986
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|9
+PDSC|ABE only. SHELF 9
+BOOE|
+BOOS|
+BOOK|001082
+TRAN|A
+ANAM|Scottoline, Lisa
+TNAM|Moment of Truth
+PBLS|HarperCollins
+DESC|Uncorrected Proof of Moment of seventh novel by this popular mystery author. Proof is bound in red wraps with plain typographical design on front cover and blank back cover. Condition is Fine. Slight impression on back cover left by clip, otherwise tightly bound and clean throughout; clearly unread. S-9
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/27/2010
+UPTM|4:57:26 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0060196092
+UBID|1139
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1.5
+PDSC|ABE only. SHELF 9
+BOOE|
+BOOS|
+BOOK|001145
+TRAN|A
+ANAM|Nicholson, Geoff
+TNAM|Bedlam Burning
+PBLS|Overlook Press
+DESC|SOFTCOVER Uncorrected Proof of new novel by the author of Bleeding London that takes on the themes of madness and the literary life. Proof is bound in heavy pink wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight wear to covers; otherwise as issued, tight & clean, clearly unread. Publicity photo of author laid in.
+PRIC|14
+BIND|S
+EDTN|F
+UPDT|8/8/2002
+UPTM|4:33:10 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1585672394
+UBID|1202
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001161
+TRAN|A
+ANAM|Diner, Hasia & Benderly, Beryl Lieff
+TNAM|Her Works Praise Her: A History of Jewish Women in America from Colonial Times to the Present
+PBLS|Basic Books
+DESC|SOFTCOVER Uncorrected Proof bound in blue wraps like a large-format trade paperback with Title and publication information on front cover and synopsis on back cover. Fine condition. Small small smudge on bottom ends; slight edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|8/13/2002
+UPTM|2:04:45 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+BCAT|Nonfiction: Women
+ABLE|1
+ISBN|0465017118
+UBID|1218
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001166
+TRAN|A
+ANAM|Saylor, Steven
+TNAM|Rubicon
+PBLS|St. Martin's
+DESC|SIGNED Advance Reading Copy of novel about ancient Rome set in the first century B.C. ARC is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on front cover, with synopsis, on back cover. NF condition. Small bump at top of back cover; slight curl to front cover; light edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. Author has signed on first bound page, which blank except for his signature in the center.
+PRIC|14
+BIND|S
+EDTN|F
+SIGN|I
+UPDT|8/13/2002
+UPTM|3:25:39 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312205767
+UBID|1223
+SGNT|Signed by Author
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|ABE only.
+BOOE|
+BOOS|
+BOOK|001169
+TRAN|A
+ANAM|Rose, June
+TNAM|Demons and Angels: The Life of Jacob Epstein
+PBLS|Carroll & Graf
+DESC|SOFTCOVER Uncorrected Proof of new biography of artist Jacob Epstein.  Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. NF. Top corner crimped at back cover leaving some interior pages slightly dog-eared; light edge wear and a few small scuff marks to covers; otherwise as issued, tight & clean, clearly unread. Publisher's letter laid in. 
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|8/16/2002
+UPTM|8:46:14 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+ABLE|1
+ISBN|0786710004
+UBID|1226
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001174
+TRAN|A
+ANAM|Hicock, Larry
+TNAM|Castles Made of Sound: The Story of Gil Evans
+PBLS|Da Capo Press
+DESC|SOFTCOVER Uncorrected Proof of new biography of jazz musician, composer, orchestrator and bandleader Gil Evans.  Proof is bound in paper wraps like a large-format trade paperback with title and publication information on front cover and synopsis on back cover. Fine condition. Slight edge wear to covers in a few places; otherwise as issued, tight & clean, clearly unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|10/21/2012
+UPTM|4:20:57 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+ABLE|1
+ISBN|0306809451
+UBID|1231
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|Cambridge, MA
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001179
+TRAN|A
+ANAM|Rosen, Ellen Israel
+TNAM|Making Sweatshops: The Globalization of the U.S. Apparel Industry
+PBLS|University of California Press
+DESC|SOFTCOVER Uncorrected Proof of comprehensive historical analysis of the globalization of the U.S. apparel industry scheduled for release in Dec. 2002. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light edge wear and some light scuffing to covers; slight curl to front cover; otherwise as issued, tight & clean, clearly unread. 
+PRIC|14
+BIND|S
+EDTN|F
+UPDT|8/22/2002
+UPTM|6:13:32 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0520233360
+UBID|1236
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|Berkeley, CA
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|ABE ONLY
+BOOE|
+BOOS|
+BOOK|001200
+TRAN|A
+ANAM|Henley, Patricia
+TNAM|In the River Sweet
+PBLS|Pantheon
+DESC|SOFTCOVER Advance Reader's Edition of latest novel by the author of Hummingbird House, a National Book Award finalist, scheduled for release in Oct. 2002. ARC is bound in coated wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Light edge wear and slight scuffing to covers; small smudge on fore-edge of text block; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:00:31 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|General Fiction
+ABLE|1
+ISBN|0375421270
+UBID|1257
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box -- Copy 1: SOLD ON HALF.COM FOR $8.95 ON 9/4/02                                                          Copy 2: Posted 9/13/02.  SHELF 9
+BOOE|
+BOOS|
+BOOK|001215
+TRAN|A
+ANAM|Wishnia, K.J.A.
+TNAM|Blood Lake
+PBLS|St. Martin's / Minotaur
+DESC|SOFTCOVER Uncorrected Proof of author's latest mystery featuring New York City PI Filomena Buscarsela, who repays an old debt in this one after a priest in her native Ecuador is assassinated.  Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and publication information on back cover. NF condition. Slight tilt to binding as bound by publisher; light edge wear to covers in a few places; slight curl to front cover; otherwise as issued, tight & clean, clearly unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|9/13/2002
+UPTM|8:34:00 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312281862
+UBID|1272
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001217
+TRAN|A
+ANAM|Wetterhahn, Ralph
+TNAM|Shadowmakers
+PBLS|Carroll & Graf
+DESC|SOFTCOVER Uncorrected Proof of debut mystery/thriller about massive cover-up about what happened to MIAs in Vietnam written by veteran military writer who won the 2002 Colby Award for his non-fiction work, The Last Battle: The Mayaguez Incident and the End of the Vietnam War, scheduled for Dec. 2002 release. Proof is bound in gray wraps like a  large-format trade paperback with Title on front cover and publication information on back cover. Fine condition. Light edge wear to covers in a few places; light crimp along fore-edge of front cover; otherwise as issued, tight & clean, clearly unread. 
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|9/13/2002
+UPTM|8:51:40 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Action/Adventure
+ABLE|1
+ISBN|0786710802
+UBID|1274
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|ABE only
+BOOE|
+BOOS|
+BOOK|001266
+TRAN|A
+ANAM|Stack, John F.
+TNAM|Scotty: James B. Reston and the Rise and Fall of American Journalism
+PBLS|Little, Brown
+DESC|SOFTCOVER Uncorrected Proof of new biography of New York Times editor and columnist James "Scotty" Reston, scheduled for release in Dec. 2003. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear and some light scuffing to covers; otherwise as issued, tight & clean, clearly unread. 
+PRIC|15
+BIND|S
+EDTN|F
+UPDT|9/25/2002
+UPTM|2:55:55 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+BCAT|Nonfiction: Journalism
+ABLE|1
+ISBN|0316809853
+UBID|1324
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|Boston
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001267
+TRAN|A
+ANAM|Hightower, Lynn
+TNAM|High Water
+PBLS|Henry Holt & Co.
+DESC|SOFTCOVER Advance Reader's Edition of author's latest mystery, released to bookstores in July 2002. ARC is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Slight edge wear and slight scuffing to covers in a few places; otherwise as issued, tight & clean, clearly unread. 
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|9/25/2002
+UPTM|3:11:46 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0805067566
+UBID|1325
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box
+BOOE|
+BOOS|
+BOOK|001291
+TRAN|A
+ANAM|Golway, Terry
+TNAM|So Others Might Live: A History of New York's Bravest, the FDNY, From 1700 to the Present
+PBLS|Basic Books
+DESC|SOFTCOVER Uncorrected Proof of new book that chronicles the history of the New York City Fire Department against the background of the catastrophic losses it suffered on 9/11/01. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. NF condition. Light edge wear and a few small scuff marks to covers; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:39:40 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|0465027407
+UBID|1349
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001379
+TRAN|A
+ANAM|Downton, Dawn Rae
+TNAM|Seldom
+PBLS|Arcade
+DESC|SOFTCOVER Uncorrected Proof of memoir about life in a rugged Newfoundland fishing village, scheduled for Nov. 2002 release. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Light edge wear and a few small scuff marks to covers; otherwise as issued, tight & clean, clearly unread. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:52:02 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1559706651
+UBID|1439
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.5
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001381
+TRAN|A
+ANAM|Wittes, Benjamin
+TNAM|Starr: A Reassessment
+PBLS|Yale University Press
+SUB1|Special Prosecutor
+DESC|SOFTCOVER Uncorrected Proof of book by editorial writer for the Washington Post evaluting the performance of the controversial Special Prosecutor who spear-headed the investigation of President Clinton. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and publication information on back cover. Fine condition. Light edge wear and a few small scuff marks to covers; otherwise as issued, tight & clean, clearly unread.  S-9
+PRIC|7.5
+BIND|S
+EDTN|F
+UPDT|6/16/2010
+UPTM|11:14:00 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Law/ Legal History
+BCAT|Nonfiction: Politics
+ABLE|1
+ISBN|0300092520
+UBID|1441
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New Haven
+PBYR|2002
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001384
+TRAN|A
+ANAM|Cooney, Eleanor
+TNAM|Death in Slow Motion: My Mother's Descent Into Alzheimer's
+PBLS|HarperCollins
+SUB1|Alzheimer's 
+DESC|SOFTCOVER Uncorrected Proof of a memoir by author Eleanor Cooney about trying to care for her novelist mother, Mary Durant, after she was diagnosed with Alzheimer's Disease, published in Feb. 2003. Proof is bound in yellow paper wraps like a trade paperback with publication information on front cover and summary on back cover. NF condition. Bottom corner lightly crimped; slight edge wear and a few small scuff marks to covers;  otherwise as issued, tight & clean, clearly unread. 
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|3/19/2003
+UPTM|6:27:28 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0066213967
+UBID|1444
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box -- Copy 1 -- SOLD ON ABEBOOKS ON 1/9/03  /   Copy 2 -- Posted on 1/20/03; SOLD ON HALF.COM FOR $9.95 ON 3/19/03 / Copy 3 Posted on 3/19/03
+BOOE|
+BOOS|
+BOOK|001587
+TRAN|A
+ANAM|Hayes, J.M.
+TNAM|Prairie Gothic
+PBLS|Poisoned Pen Press
+DESC|Advance Reading copy of new mystery by the author of Mad Dog and Englishman, scheduled for release in Feb. 2003, $24.95 tentative issue price, 276 pp. NF condition. Bottom corner of back cover lightly bumped; minor edge wear and a few light scratches; very tightly bound with clean pages throughout. An unread copy that shows light wear from storage. Publisher's press release laid in. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:53:19 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1590580508
+UBID|1652
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|Scottsdale
+PBYR|2003
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001638
+TRAN|A
+ANAM|Due, Tananarive & Due, Patricia Stephens
+TNAM|Freedom in the Family: A Mother-Daughter Memoir of the Fight for Civil Rights
+PBLS|Ballantine Books
+SUB1|Civil Rights Movement
+DESC|SOFTCOVER Advance Bound Galley of biography of joint mother-daughter memoir about their experience in the Civil Rights movement from its early days in the 1950s to the present, co-authored by novelist Tananarive Due and her mother, Patricia Stephens Due, who received the Ghandi Award for her nonviolent stand during a landmark "jail-in" that took place while whe was attending Florida A&M University. Proof is bound in glossy wraps like a large-format trade paperback with Title on front cover and promotional information on back cover. Proof lacks 16-page photo insert that accompanies the hard cover edition. Fine condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:02:07 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: Biography
+ABLE|1
+ISBN|0345447336
+UBID|1703
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALF BOX -- Copy 1 -- SOLD ON HALF.COM FOR $10.95 ON 2/12/03                                                    Copy 2 -- Posted on 2/13/03.   SHELF 9
+BOOE|
+BOOS|
+BOOK|001639
+TRAN|A
+ANAM|Hough, Robert
+TNAM|The Final Confession of Mabel Stark
+PBLS|Atlantic Monthly Press
+DESC|SOFTCOVER Advance Uncorrected Proof of author's first novel, a fictional biography of Mabel Stark, the world's greatest female tiger tamer, who starred  in the Ringling Brothers Barnum & Bailey Circus in the 1910s and 1920s. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. 
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|2/7/2003
+UPTM|11:06:16 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|General Fiction
+ABLE|1
+ISBN|0871138700
+UBID|1704
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|001697
+TRAN|A
+ANAM|Hickman, Patricia
+TNAM|Fallen Angels
+PBLS|Warner Books
+DESC|SOFTCOVER Advance Reading Copy of first entry in the author's Millwoood Hollow series of novels set in Arkansas during the Great Depression, scheduled for release in May 2003. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/16/2010
+UPTM|11:15:18 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0446691011
+UBID|1762
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|F
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001719
+TRAN|A
+ANAM|Saxton, Martha
+TNAM|Being Good: Women's Moral Values in Early America
+PBLS|Hill & Wang
+DESC|SOFTCOVER Advance Uncorrected Proof of new history about the role of women in early American society based on their subjective view of themselves, drawn from archives of letters, diaries, newpapers and other sources, released in Feb. 2003. Proof is bound in glossy wraps like a trade paperback with DJ art on front cover and promotional information on back cover. Fine condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. H-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|2/17/2011
+UPTM|3:30:50 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+BCAT|Nonfiction: Women
+ABLE|1
+ISBN| 0374110115
+UBID|1784
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALL SHELF 9 (BOTTOM-LEFT SHELF) 
+BOOE|
+BOOS|
+BOOK|001720
+TRAN|A
+ANAM|Reid, Van
+TNAM|Mrs. Roberto, or the Widowy Worries of the Moosepath League
+PBLS|Viking
+DESC|SOFTCOVER Advance Uncorrected Proof of the 4th entry in the author's Moosepath League series about the adventures of a Pickwickian group of friends set in Maine during the late 19th century, seceduled for elease in July 2003. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. NF condition. Light crimp to top corner of front cover; slight curl to front cover; light edge wear to covers in a few places; otherwise as issued -- tight, clean and unread. H-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|12/4/2010
+UPTM|11:44:01 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0670032255
+UBID|1785
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|Half Box. HALL SHELF 9 (BOTTOM-LEFT SHELF) 
+BOOE|
+BOOS|
+BOOK|001802
+TRAN|A
+ANAM|Bahal, Aniruddha
+TNAM|Bunker 13
+PBLS|Farrar Straus Giroux
+DESC|SOFTCOVER Advance Uncorrected Proof of new novel set for publication in May 2003 set against the background of the conflict between India and Pakistan. Proof is bound in glossy paper wraps like a large-format trade paperback with DJ art on front cover, and promotional information on back cover. NF condition. Light edge wear and a few small scuff marks to covers; otherwise as issued -- tight, clean and unread.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|5/10/2003
+UPTM|5:32:26 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Action/Adventure
+ABLE|1
+ISBN|0374117306
+UBID|1868
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|001825
+TRAN|A
+ANAM|Carpenter, Teresa
+TNAM|The Miss Stone Affair : America's First Modern Hostage Crisis
+PBLS|Simon & Schuster
+DESC|SOFTCOVER Advance Uncorrected Proof of new book about America's first modern hostage crisis, the 1901 kidnapping in Macedonia of a female missionary from the U.S. by Christian insurgents fighting against Turkish rule, scheduled for release in June 2003. Proof is bound in heavy yellow paper wraps like a trade paperback with Title on front cover, blank back cover, and promotional information bound in as first bound page. Fine condition -- slight edge wear to covers; otherwise as issued -- tight, clean and unread. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/15/2010
+UPTM|12:34:00 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|0743200551
+UBID|1892
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York, NY
+PBYR|2003
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|001827
+TRAN|A
+ANAM|Sundeed, Mark
+TNAM|The Making of Toro : Bullfighting, Broken Hearts, and One Author's Quest for the Acclaim He So Richly Deserves
+PBLS|Simon & Schuster
+SUB1|Bullfighting
+DESC|SOFTCOVER Advance Uncorrected Proof of new book about American journalist on assignment in Mexico to do a story on bullfighting who adopts alter-ego to meet his deadline, scheduled for release in May 2003. Book is bound in heavy yellow paper wraps like a trade paperback with Title on front cover, blank back cover, and promotional information bound in as first bound page. NF condition -- light edge wear and a few small scuff marks to covers;  otherwise as issued -- tight, clean and unread. 
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|5/2/2003
+UPTM|4:39:35 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743236165
+UBID|1894
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+BOOE|
+BOOS|
+BOOK|001904
+TRAN|A
+ANAM|Zimler, Richard
+TNAM|Hunting Midnight
+PBLS|Delacorte Press
+DESC|SOFTCOVER Advance Uncorrected Proof of new novel by the author of The Last Kabbalist of Lisbon, a historical mystery spanning two continents and three generations about a bereft child, a freed African slave and the secret Jews of 19th century Portugal, scheduled for release in July 2003. Book is bound in heavy tan paper wraps like a large-format trade paperback with Title on front cover and synopsis on back cover. Fine condition -- light edge wear to covers in a few places; small scuff mark on front cover, bottom-right; otherwise as issued -- tight, clean and unread. 
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|5/18/2003
+UPTM|8:17:24 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0385336446
+UBID|1971
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.5
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|001909
+TRAN|A
+ANAM|Haynes, Melinda
+TNAM|Willem's Field 
+PBLS|Free Press
+DESC|SOFTCOVER Advance Reader's Edition of new novel by by the author of Mother of Pearl set in Mississippi in the 1970s, scheduled for publication in May 2003. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover, and promotional information on back cover.  Fine condition -- slight edge wear to covers; otherwise as issued -- tight, clean and unread. Publisher's press release laid in.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|10/21/2012
+UPTM|4:21:25 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743238494
+UBID|1976
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.5
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|002325
+TRAN|A
+ANAM|Donald, David Herbert
+TNAM|We Are Lincoln Men : Abraham Lincoln and His Friends
+PBLS|Simon & Schuster
+SUB1|LINCOLN ABRAHAM 1809 1865 PRESIDENTS UNITED STATES BIOGRAPHY AUTOBIOGRAPHY HEADS STATE
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of new book by Pulitzer Prize-winning historian that takes a fresh look at Abraham Lincoln by observing how he dealt with friends and close associates, scheduled for release in November 2003. Proof is bound like a large-format trade paperback in stiff yellow wraps with title and publication information on front cover, blank back cover, and promo infromation bound in as first bound page. Fine condition -- slight smudge at bottom of front cover; minor edgewear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:04:48 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|0-74325-4686
+UBID|2398
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|002331
+TRAN|A
+ANAM|Essig, Mark
+TNAM|Edison and the Electric Chair : A Story of Light and Death
+PBLS|Walker & Company
+SUB1|EDISON THOMAS A ALVA 1847 1931 BIOGRAPHY AUTOBIOGRAPHY SCIENCE TECHNOLOGY
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of a new history that tells the story of Thomas Edison's role in the adoption of the Electric Chair as America's preferred form of capital punishment, released in September 2003. Proof is bound like a trade paperback in heavy coated wraps with DJ art on front cover and publication information on back cover. NF condition. Front cover has slight bend at bottom-right corner; slight scuffing and very minor edgewear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|10/8/2003
+UPTM|8:59:37 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Nonfiction: History
+ABLE|1
+ISBN|0802714064
+UBID|2404
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.97
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002337
+TRAN|A
+ANAM|Tarr, Judith
+TNAM|House of War
+PBLS|ROC
+SUB1|JERUSALEM HISTORY LATIN KINGDOM 1099 1244 RICHARD I KING ENGLAND 1157 1199 FICTION FANTASY HISTORICAL BIOGRAPHY AUTOBIOGRAPHY ROYALTY MIDDLE EAST
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of new fantasy novel set in 13th century Jerusalem, where Richard the Lionheart reigns as king, released as a Trade Paperback Original in October 2003. Proof is bound in peach-colored wraps with title and publication information on front cover, and promo infromation on back cover. VG+ condition -- Bump at bottom corner of Proof has left light diagonal creases at bottom corners of covers and slightly dog-eared some interior pages; light edge wear to covers in a few places elsewhere, along with a few small scratches and light scuff marks;  otherwise as issued, tight & clean, clearly unread. Publisher's press release (with a few small tears) laid in. 
+PRIC|8.5
+BIND|S
+EDTN|F
+UPDT|10/12/2003
+UPTM|2:44:02 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0451529006
+UBID|2410
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|VG+
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002339
+TRAN|A
+ANAM|Saberhagen, Fred
+TNAM|Berserker's Star
+PBLS|TOR/ Tom Doherty Associates
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of latest entry in Saberhagen's Berserker series of novels about the future war between humanity and sentient machines, released in June 2003. Proof is bound like a large-format trade paperback in stiff pale-blue wraps with title and publication information on front cover, and promo infromation on back cover. NF condition -- Spine slightly bowed (as bound); light shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|10/12/2003
+UPTM|3:01:08 PM
+BCAT|Science Fiction
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0765304236
+UBID|2412
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002340
+TRAN|A
+ANAM|DeCandido, Keith R. A.
+TNAM|Destruction of Illusions (Gene Roddenberry's Andromeda)
+PBLS|TOR/ Tom Doherty Associates
+SUB1|FICTION SCIENCE SPACE OPERA
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of book based on Gene Roddenberry's Andromeda TV series that tells the previously untold story that forms the basis for the show, released in February 2003. Proof is bound like a large-format trade paperback in stiff red wraps with title and publication information on front cover, and promo infromation on back cover. Fine condition -- Light shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|10/12/2003
+UPTM|3:08:42 PM
+BCAT|Science Fiction
+BCAT|TV Tie-In
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|076530483x
+UBID|2413
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002341
+TRAN|A
+ANAM|McGarry, Terry
+TNAM|The Binder's Road (Illumination Ser., No. 2)
+PBLS|TOR/ Tom Doherty Associates
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of sequel to author's debut fantasy novel, Illumination, released in April 2003. Proof is bound like a large-format trade paperback in stiff pale-blue wraps with title and publication information on front cover, and promo infromation on back cover. NF condition -- Spine slightly bowed (as bound); light shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|10/12/2003
+UPTM|3:14:24 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0765304287
+UBID|2414
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002363
+TRAN|A
+ANAM|Chalker, Jack L.
+TNAM|Kaspar's Box
+PBLS|Baen Books
+SUB1|FICTION SCIENCE SPACE OPERA
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of Book Three in the author's Tales of the Three Kings series, released in April 2003. Proof is bound like a large-format trade paperback in stiff coated wraps with DJ art on front cover, and blank back cover. Fine condition -- slight shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:07:40 AM
+BCAT|Science Fiction
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|074343563x
+UBID|2437
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|002366
+TRAN|A
+ANAM|Hogan, James P.
+TNAM|The Anguished Dawn
+PBLS|Baen Books
+SUB1|FICTION SCIENCE GENERAL
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of the sequel to the author's Cradle of Saturn, about the struggle to survive on a post-apocalyptic world, released in June 2003. Proof is bound like a large-format trade paperback in glossy wraps with DJ art on front cover, and blank back cover. Fine condition -- Slight shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. Cover Art by David Mattingly. A very nice copy of the prepublication edition of this title. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/17/2010
+UPTM|10:09:13 AM
+BCAT|Science Fiction
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743435818
+UBID|2440
+EDNT|Uncorrected Proof
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+INAM|Mattingly, David / Cover Illustration
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|002367
+TRAN|A
+ANAM|Douglass, Sara
+TNAM|Threshold
+PBLS|TOR/ Tom Doherty Associates
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of new stand-along fantasy novel by the author of The Wayfarer Redeption series, released in September 2003. Proof is bound like a large-format trade paperback in stiff peach-colored wraps with title and publication information on front cover, and promo information on back cover. VG+ condition -- Light crimps at bottom right corner of front cover and top-left corner of back cover have left small diagonal creases; light edge wear to covers in a few places elsewhere, along with a few small scuff marks; crimp has left bottom-right corner of first few pages lightly dog-eared; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|10/20/2003
+UPTM|4:16:46 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312876874
+UBID|2441
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|VG+
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002376
+TRAN|A
+ANAM|Pinto, Ricardo
+TNAM|The Standing Dead (Stone Dance of the Chameleon Ser., Vol. II)
+PBLS|TOR/ Tom Doherty Associates
+SUB1|FICTION FANTASY EPIC
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of Book Two in the author's Stone Dance of the Chameleon series, released in March 2003. Proof is bound like a trade paperback in stiff pale green-colored wraps with title and publication information on front cover, and promo information on back cover. NF condition -- Light bump at heel of spine; horizontal crease near bottom of spine (as bound); light edge wear to covers in a few places elsewhere; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|12
+BIND|S
+EDTN|F
+UPDT|10/20/2003
+UPTM|4:17:26 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312872097
+UBID|2450
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002378
+TRAN|A
+ANAM|Mosiman, Billie Sue
+TNAM|The Craven Path (The Vampire Nations Ser.)
+PBLS|DAW
+SUB1|Vampires
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of the third novel in the author's Vampire Nations series, released as a Trade Paperback Original in June 2003. Proof is bound like a trade paperback in glossy wraps with DJ art on front cover and publication and promo information on back cover. Fine condition -- Light edge wear to covers in a few places, along with a few small scratches and light scuff marks; otherwise as issued, tight, clean and unread. A pristine copy of the prepublication edition of this title. S-9
+PRIC|8
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:38:07 AM
+BCAT|Horror
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0756401208
+UBID|2452
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+INAM|Brautigam, Don / Cover Illustration
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9 
+BOOE|
+BOOS|
+BOOK|002379
+TRAN|A
+ANAM|Brust, Steven
+TNAM|The Paths of the Dead : Viscount of Adrilankha (Vol. l) (The Viscount of Adrilankha Ser., Bk. 1)
+PBLS|TOR/ Tom Doherty Associates
+SUB1|FICTION FANTASY GENERAL
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of Book One in the author's Viscount of Adrilankha series, released in December 2002. Proof is bound like a trade paperback in stiff pale-blue wraps with title and publication information on front cover, and promo infromation on back cover. NF condition -- Light crimp on back cover, top-right; small area of light scuffing on front cover, top-right; light shelf wear to covers in a few places elsewhere; otherwise as issued, tight, clean and unread. A very nice copy of the prepublication edition of this title.
+PRIC|12.5
+BIND|S
+EDTN|F
+UPDT|10/20/2003
+UPTM|4:26:14 PM
+BCAT|Fantasy
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312864787
+UBID|2453
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2002
+BOOC|NF
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALF BOX
+BOOE|
+BOOS|
+BOOK|002380
+TRAN|A
+ANAM|Kress, Nancy
+TNAM|Crossfire 
+PBLS|TOR/ Tom Doherty Associates
+DESC|SOFTCOVER ADVANCE UNCORRECTED PROOF of new novel by Hugo and Nebula Award-winning author, released in February 2003. Proof is bound like a trade paperback in stiff pale-blue wraps with title and publication information on front cover, and promo information on back cover. Fine condition -- Slight shelf wear to covers in a few places; otherwise as issued, tight, clean and unread. A pristine copy of the prepublication edition of this title. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/16/2010
+UPTM|11:20:27 AM
+BCAT|Science Fiction
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0765304678
+UBID|2454
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|Fine
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|002667
+TRAN|A
+ANAM|Barnes, Linda
+TNAM|Flashpoint (Carlotta Carlyle Mysteries Ser.)
+PBLS|Hyperion Press
+SUB1|CARLYLE CARLOTTA 
+DESC|SOFTCOVER Advance Reader's Edition of author's 1999 Carlota Carlyle mystery. Fine condition, clearly unread. H-6
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|12/1/2010
+UPTM|7:57:23 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|078686317x
+UBID|2746
+EDNT|Advance Reading Copy
+BNDC|Printed Wraps
+PBPL|New York
+PBYR|1999
+BOOC|Fine
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALL SHELF 6 (THREE SHELVES UP FROM BOTTOM-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|002777
+TRAN|A
+ANAM|Walters, Minette
+TNAM|The Breaker
+PBLS|Putnam
+SUB1|ENGLAND FICTION MYSTERY DETECTIVE POLICE
+DESC|SOFTCOVER Uncorrected Proof of Advance Reader's Edition of mystery novel. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. NF condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. H-2
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|11/29/2010
+UPTM|11:57:47 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0399144927
+UBID|2863
+EDNT|Uncorrected Proof
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALL SHELF 2 (SHELF BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|002778
+TRAN|A
+ANAM|Winslow, Don
+TNAM|California Fire and Life
+PBLS|Knopf
+DESC|SOFTCOVER Uncorrected Proof of Advance Reader's Edition of mystery novel about arson investigator. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. NF condition. Slight wear to covers; otherwise as issued -- tight, clean and unread. H-2
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|11/29/2010
+UPTM|11:57:31 AM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0676549705
+UBID|2864
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALL SHELF 2 (SHELF BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|002780
+TRAN|A
+ANAM|Pearson, Ridley
+TNAM|The First Victim
+PBLS|Hyperion
+SUB1|BOLDT LOU FICTITIOUS CHARACTER FICTION
+DESC|SOFTCOVER Uncorrected Proof of Advance Reader's Edition of Lou Boldt thriller. Proof is bound in glossy wraps like a large-format trade paperback with DJ art on front cover and promotional information on back cover. NF condition. Slight edge wear to covers; otherwise as issued -- tight, clean and unread. H-2
+PRIC|10
+BIND|S
+EDTN|F
+UPDT|11/29/2010
+UPTM|11:57:15 AM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Action/Adventure
+ABLE|1
+ISBN|0786864400
+UBID|2866
+EDNT|Advance Reading Copy
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|HALL SHELF 2 (SHELF BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|003824
+TRAN|A
+ANAM|Evans, Penelope
+TNAM|Freezing
+PBLS|Soho
+DESC|Softcover Advance Reading Copy bound like a trade paperback. An unread copy that has some slight wear to it from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:36:20 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1569471215
+UBID|3928
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1998
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003826
+TRAN|A
+ANAM|Fitzpatrick, Christina
+TNAM|Where We Lived: A Fiction
+PBLS|HarperCollins
+DESC|Advance reading copy of author's first novel, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:43:35 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0060197692
+UBID|3930
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003827
+TRAN|A
+ANAM|Lafarge, Paul
+TNAM|The Artist of the Missing
+PBLS|Farrar Straus & Giroux
+DESC|Advance reading copy of 1999 novel, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/9/2010
+UPTM|11:59:52 AM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0374525803
+UBID|3931
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003828
+TRAN|A
+ANAM|Iribarne, Matthew
+TNAM|Astronauts & Other Stories
+PBLS|Simon & Schuster
+DESC|Advance reading copy of 2001 debut short story collection, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:42:40 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Short Stories
+ABLE|1
+ISBN|0743203801
+UBID|3932
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|0.8
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003829
+TRAN|A
+ANAM|Shand, Rosa
+TNAM|The Gravity of Sunlight
+PBLS|Soho
+DESC|Advance reading copy of novel published in 2000, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:42:32 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1569471924
+UBID|3933
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003830
+TRAN|A
+ANAM|Weigl, Bruce
+TNAM|The Circle of Hanh: A Memoir
+PBLS|Grove Press
+DESC|Advance reading copy of poet's memoir of the Vietnam War published in 2000, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:41:57 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0802116612
+UBID|3934
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+BOOE|
+BOOS|
+BOOK|003831
+TRAN|A
+ANAM|Currier, Jameson
+TNAM|Dancing on the Moon: Short Stories About AIDS
+PBLS|Viking Press
+DESC|Advance reading copy of a collection of short stories about AIDS, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|1:48:06 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Short Stories
+ABLE|1
+ISBN|0670846562 
+UBID|3935
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1993
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003833
+TRAN|A
+ANAM|Stockwin, Julian
+TNAM|Kydd: A Novel
+PBLS|Scribners
+DESC|Advance reading copy of first novel in a projected series about an impressed seaman in the British Navy set against the background of the Napoleonic wars. ARC was published in 2001, and is bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|4:55:35 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Nautical Fiction
+ABLE|1
+ISBN|0743214587
+UBID|3938
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003834
+TRAN|A
+ANAM|Hollingsworth, A. B.
+TNAM|Flatbellies: It's Not About Golf, It's About Life
+PBLS|W W Norton & Co.
+DESC|Advance reading copy of the trade paperback edition of a coming of age novel set against the background of a high school golf team in the Oklahoma of the 1960s. This is a prepublication copy, in a somewhat different wrapper, sent out for distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|6:11:39 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0393324206
+UBID|3939
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2003
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003835
+TRAN|A
+ANAM|James, Sian
+TNAM|Second Chance
+PBLS|St Martins Press
+DESC|Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with publlicists business card stapled inside front cover, top-left, and slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|6:16:22 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312272588
+UBID|3940
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003836
+TRAN|A
+ANAM|Gray, A.W.
+TNAM|Bino's Blues: A Novel
+PBLS|Simon & Schuster
+DESC|Advance reading copy of mystery novel, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/10/2010
+UPTM|6:20:07 PM
+BCAT|Mystery
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0671881868
+UBID|3941
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1995
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003844
+TRAN|A
+ANAM|Balf, Todd
+TNAM|The Last River: The Tragic Race for Shangri-LA
+PBLS|Crown Publishers
+DESC|SOFTCOVER Advance reading copy of book about white-water kayaking in the shadows of Mt. Everest published in 2000, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|4:39:20 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0609606255
+UBID|3949
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003846
+TRAN|A
+ANAM|Parsons, Julie
+TNAM|Eager to Please: A Novel
+PBLS|Simon & Schuster
+DESC|SOFTCOVER Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|4:39:44 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0743219317
+UBID|3951
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003847
+TRAN|A
+ANAM|Salinger, Steven D.
+TNAM|White Darkness
+PBLS|Crown Publishers
+DESC|SOFTCOVER Advance reading copy of author's first novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|4:41:37 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0609607286
+UBID|3952
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003849
+TRAN|A
+ANAM|Kennedy, A. L.
+TNAM|Everything You Need
+PBLS|Knopf
+DESC|SOFTCOVER Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|4:50:14 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|037540791X 
+UBID|3954
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003850
+TRAN|A
+ANAM|Earls, Nick
+TNAM|Perfect Skin
+PBLS|St Martins Press
+DESC|SOFTCOVER Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with release date written in ink on spine, publlicists business card stapled inside front cover, top-left, and slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|4:55:58 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0312280564
+UBID|3955
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003851
+TRAN|A
+ANAM|Karbo, Karen
+TNAM|Generation Ex: Tales from the Second Wives Club
+PBLS|Bloomsbury
+DESC|SOFTCOVER Advance reading copy of nonfiction humor work about "the state of marriage, divorce, and remarriage" published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:03:00 PM
+BCAT|Humor
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1582341265
+UBID|3956
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003852
+TRAN|A
+ANAM|Cheever, Susan
+TNAM|As Good As I Could Be: A Memoir of Raising Wonderful Children in Difficult Times
+PBLS|Simon & Schuster
+DESC|SOFTCOVER Advance reading copy of memoir about child-rearing published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:08:03 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0684863413
+UBID|3957
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003853
+TRAN|A
+ANAM|Beller, Thomas
+TNAM|The Sleep-Over Artist
+PBLS|W W Norton & Co.
+DESC|SOFTCOVER Advance reading copy of 2000 short story collection, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:12:32 PM
+BCAT|ARCs/Uncorrected Proofs
+BCAT|Fiction: Short Stories
+ABLE|1
+ISBN|0393049256
+UBID|3958
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2000
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003854
+TRAN|A
+ANAM|Forsyth, Moira
+TNAM|Waiting for Lindsay
+PBLS|St Martins Press
+DESC|SOFTCOVER Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:47:34 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|031227873x
+UBID|3959
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003855
+TRAN|A
+ANAM|MacLeish, William H.
+TNAM|Uphill With Archie: A Son's Journey
+PBLS|Simon & Schuster
+DESC|SOFTCOVER Advance reading copy of memoir by the son of Archibald MacLeish published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:51:42 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0684824957
+UBID|3960
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003856
+TRAN|A
+ANAM|L'Heureux, John
+TNAM|Having Everything
+PBLS|Atlantic Monthly Press
+DESC|SOFTCOVER Advance reading copy of novel published in 1999, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:54:59 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0871137631
+UBID|3961
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003857
+TRAN|A
+ANAM|Olds, Bruce
+TNAM|Bucking the Tiger
+PBLS|Farrar Straus & Giroux
+DESC|SOFTCOVER Advance reading copy of novel about Doc Holliday published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:58:43 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0374117276 
+UBID|3962
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003858
+TRAN|A
+ANAM|Swallow, Wendy
+TNAM|Breaking Apart: A Memoir of Divorce
+PBLS|Hyperion Books
+DESC|SOFTCOVER Advance reading copy of memoir about the stress of divorce written by a former Washington Post staff writer published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|6:02:14 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0786865997
+UBID|3963
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|shelf 9
+BOOE|
+BOOS|
+BOOK|003859
+TRAN|A
+ANAM|Snyder, Don J.
+TNAM|Night Crossing
+PBLS|Knopf
+DESC|SOFTCOVER Advance reading copy of novel published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|5
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|6:04:57 PM
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0375409068 
+UBID|3964
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|NF
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|003860
+TRAN|A
+ANAM|Tytell, John
+TNAM|Paradise Outlaws: Remembering the Beats
+PBLS|William Morrow & Co.
+DESC|SOFTCOVER Advance reading copy of book about the beat poets published in 1999. Book is a bit oversized, and bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-5
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|6:10:13 PM
+BCAT|Poetry
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|0688164439
+UBID|3965
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|1999
+BOOC|F
+SIZE|4to - over 9¾" - 12" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 5
+BOOE|
+TRLS|
+PRCT|HBV3.0
+DATE|12/7/2018 11:19:00 PM
+TIME|23:19:00
+HVER|2.3.30
+USER|dbabookstore
+COMM|
+SYST|PROD
+FNAM|C:\Users\Albert\Desktop\ABES\DB20181207231847-uncorrected-proofs.txt
+HPFM|
+TADD|134
+TDEL|1
+TCNT|135
+TRLE|

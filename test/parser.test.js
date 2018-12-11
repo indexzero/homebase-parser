@@ -18,27 +18,28 @@ describe('Parser', function () {
 
     assume(parser.books).is.an('array');
     assume(parser.books.length).equals(1);
-    assume(parser.books).deep.equals([{
-      'book-number': 332,
-      author: 'Alumit, Noel',
-      title: 'Letters to Montgomery Clift',
-      publisher: 'MacAdam/Cage',
-      description: 'Softcover Advance Proof copy of author\'s first novel.',
-      price: 6,
-      'last-updated': new Date('2010-06-15T04:00:00.000Z'),
-      categories: [ 'ARCs/Uncorrected Proofs' ],
-      ISBN: '1931561028',
-      edition: 'Uncorrected Proof',
-      'jacket-condition': 'No Jacket',
-      binding: 'Original Wraps',
-      'publish-place': 'San Francisco',
-      'publish-year': 2002,
-      'book-condition': 'NF',
-      size: '8vo - over 7¾" - 9¾" tall',
-      'book-type': 'Advanced Reading Copy (ARC)',
-      status: 'For Sale',
-      cost: 1,
-      comments: 'SHELF 9'
-    }])
+
+    const [book] = parser.books;
+    assume(book['book-number']).equals(332);
+    assume(book['author']).equals('Alumit, Noel');
+    assume(book['title']).equals('Letters to Montgomery Clift');
+    assume(book['publisher']).equals('MacAdam/Cage');
+    assume(book['description']).equals('Softcover Advance Proof copy of author\'s first novel.');
+    assume(book['price']).equals(6);
+    assume(book['last-updated']).deep.equals(new Date('2010-06-15T04:00:00.000Z'));
+    assume(book['categories']).deep.equals(['ARCs/Uncorrected Proofs']);
+    assume(book['ISBN']).equals('1931561028');
+    assume(book['edition']).equals('Uncorrected Proof');
+    assume(book['jacket-condition']).equals('No Jacket');
+    assume(book['binding']).equals('Original Wraps');
+    assume(book['publish-place']).equals('San Francisco');
+    assume(book['publish-year']).equals(2002);
+    assume(book['book-condition']).equals('NF');
+    assume(book['size']).equals('8vo - over 7.75" - 9.75" tall');
+    assume(book['book-type']).equals('Advanced Reading Copy (ARC)');
+    assume(book['status']).equals('For Sale');
+    assume(book['cost']).equals(1);
+    assume(book['comments']).equals('SHELF 9');
+
   });
 });
