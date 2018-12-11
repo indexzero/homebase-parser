@@ -1,4 +1,4 @@
-const { names, ignore, control } = require('./fields');
+const { names, ignore, control, types } = require('./fields');
 const diagnostics = require('diagnostics');
 
 /**
@@ -63,20 +63,36 @@ module.exports = class Parser {
 
     const [, field, value] = match;
     if (field === control.end) {
+      // BOOE pushes the next book onto the list of all books parsed
       debug.book("Parsed %j", this.current);
       this.books.push(this.current);
     } else if (field === control.start) {
+      // BOOS starts tracking a new book internally.
+      // Only one book at a time.
       debug.start();
       this.current = {};
     } else if (!ignore[field]) {
-      const name = names[field];
-      if (!name) {
-        debug.line('No name for: %s in "%s"', field);
-        return;
-      }
+      this.parseField(field, value);
+    }
+  }
 
-      debug.line(field, name, value);
+  parseField(field, value) {
+    // If we do not ignore the field, attempt to parse it.
+    const name = names[field];
+    if (!name) {
+      debug.line('No name for: %s in "%s"', field);
+      return;
+    }
+
+    if (types[field]) {
+      const parsed = types[field](value, this.current);
+      if (parsed) {
+        this.current[name] = parsed;
+      }
+    } else {
       this.current[name] = value;
     }
+
+    debug.line(field, name, value);
   }
 }
