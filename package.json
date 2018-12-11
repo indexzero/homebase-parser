@@ -1,0 +1,33 @@
+{
+  "name": "homebase-parser",
+  "version": "0.0.0",
+  "description": "Parser & file reader for the ABE Homebase 2.0 text (*.txt) format",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assume": "^2.1.0",
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0"
+  },
+  "scripts": {
+    "test": "nyc mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexzero/homebase-parser.git"
+  },
+  "keywords": [
+    "abe-books",
+    "books",
+    "homebase"
+  ],
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexzero/homebase-parser/issues"
+  },
+  "homepage": "https://github.com/indexzero/homebase-parser#readme"
+}
