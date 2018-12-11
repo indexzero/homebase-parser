@@ -42,7 +42,7 @@ const names = {
   TNAM: 'title',
   BTYP: 'book-type',
   DESC: 'description',
-  BCAT: 'category',
+  BCAT: 'categories',
   SUB1: 'keywords',
   PDSC: 'comments',
   SIZE: 'size',
@@ -63,8 +63,57 @@ const names = {
   PPRC: 'cost'
 };
 
+/**
+ * Shared known value types for reuse in field=
+ * type mappings below.
+ * @type {Object}
+ */
+const shared = {
+  integer: value => parseInt(value, 10),
+  float: value => parseFloat(value)
+};
+
+/**
+ * Type mappings for non-string fields
+ * @type {Object}
+ */
+const types = {
+  // Dates
+  UPDT: value => new Date(value),
+
+  // TODO: People / names. Must support:
+  // 1. Last, First
+  // 2. Last, First Middle
+  // 3. Last, First M.
+  // 4. Last, F. Middle
+  // 5. Multi Last, First
+  // 6. Any permutation of the above
+  // 7. Multiple authors (; separated)
+  // ANAM: shared.person,
+  // INAM: shared.person,
+
+  // Details
+  BCAT: (value, book) => {
+    const { categories = [] } = book;
+    categories.push(value);
+    return categories;
+  },
+
+  // Comma separated values
+  SUB1: values => values.split(',').map(v => v.trim()),
+
+  // Integers
+  PBYR: shared.integer,
+  BOOK: shared.integer,
+
+  // Decimal
+  PRIC: shared.float,
+  PPRC: shared.float
+};
+
 module.exports = {
   names,
   ignore,
-  control
+  control,
+  types
 };
