@@ -1,6 +1,6 @@
 {
   "name": "homebase-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parser & file reader for the ABE Homebase 2.0 text (*.txt) format",
   "main": "index.js",
   "dependencies": {
