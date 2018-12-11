@@ -1,11 +1,8 @@
 {
   "name": "homebase-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parser & file reader for the ABE Homebase 2.0 text (*.txt) format",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "dependencies": {
     "diagnostics": "^1.1.1"
   },
