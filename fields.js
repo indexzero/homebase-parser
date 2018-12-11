@@ -102,6 +102,9 @@ const types = {
   // Comma separated values
   SUB1: values => values.split(',').map(v => v.trim()),
 
+  // String sanitization
+  SIZE: value => value.replace(/¾/g, '.75'),
+
   // Integers
   PBYR: shared.integer,
   BOOK: shared.integer,

@@ -1,0 +1,714 @@
+HDRS|
+PRCT|HBV3.0
+DATE|12/7/2018 11:29:18 PM
+TIME|23:29:18
+HVER|2.3.30
+USER|anyuser
+COMM|
+SYST|PROD
+FNAM|C:\Users\User\filename.txt
+HPFM|
+HDRE|
+BOOS|
+BOOK|000122
+TRAN|A
+ANAM|Thurber, James
+TNAM|Alarms & Diversions
+PBLS|Harper & Brothers
+DESC|Extensive collection of Thurber pieces from 1932-1957, most of which originally appeared in The New Yorker. DJ, in Brodart Protector, has some minor chipping top & bottom of spine and at corners; minor edge wear in spots; light soiling in some areas; light diagonal crease at bottom of each flap; DJ remains fresh-looking, featuring Thurber drawings front & back. Book has gray boards quarter-bound in yellow cloth with Thurber drawings of woman on quarter-binding facing drawing of man on spine; slight crimping at top & bottom of spine with edge wear in those areas as well; bottom corners bumped; light browning in some areas of paste-downs and end papers; name neatly written on front end paper and price lightly penciled top-right; very tightly bound with clean, white pages throughout - appears to be very gently read. H-16
+PRIC|25
+JACK|J
+BIND|H
+EDTN|F
+UPDT|12/4/2010
+UPTM|10:54:46 AM
+BCAT|Modern First Editions
+BCAT|Humor
+ABLE|1
+UBID|144
+EDNT|First Edition
+JCKC|VG
+BNDC|Boards Quarter-Bound in Cloth
+PBPL|New York
+PBYR|1957
+BOOC|VG+
+INAM|Thurber, James
+STAT|For Sale
+PPRC|15
+PDSC|HALL SHELF 16 (TOP-LEFT SHELF) 
+BOOE|
+BOOS|
+BOOK|000832
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Big Money
+PBLS|A.L. Burt
+DESC|Early reprint edition of 1931 Wodehouse novel. Printing unstated. No Dust Jacket. Good condition. Book is bound in orange cloth; spine browned with some fraying at top of spine and some wear at bottom of spine; light crease on front cover, center-right; a few small scuff marks and areas of light soiling to covers; corners lightly bumped; edge wear to covers in a few places, including slight frays at bottom corners; ends lightly browned with light soiling to top ends from dust; small bookseller's stamp (The May Company) on rear paste-down, top-left; tightly bound with clean pages throughout. S-7
+PRIC|10
+BIND|H
+UPDT|2/25/2010
+UPTM|5:55:27 PM
+BCAT|Humor
+ABLE|1
+UBID|882
+EDNT|A.L. Burt Reprint Edition
+JCKC|No Jacket
+BNDC|Cloth
+PBPL|New York
+PBYR|1931
+BOOC|Good
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 7
+BOOE|
+BOOS|
+BOOK|000958
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Ukridge
+PBLS|Hutchinson
+DESC|Entry in Hutchinson's "New Autograph Edition" series of Wodehouse novels published in the 1980s. First thus; Copyright Page recites novel's printing history, ending with "This edition, 1987."  Condition is F/F. Dust Jacket, in new archival-quality Brodart Protector, has a few areas of slight edge wear and slight scuffing; otherwise bright and fresh-looking as issued, with cover illustration by Andrew Farmer. Book is bound in brown cloth with silver lettering on spine; illustrated end papers; tight & clean inside; appears to be unread. H-4
+PRIC|20
+JACK|J
+BIND|H
+UPDT|11/30/2010
+UPTM|5:10:49 PM
+BCAT|Humor
+ABLE|1
+ISBN|0091701406
+UBID|1013
+EDNT|First Thus
+JCKC|NF
+BNDC|Cloth
+PBPL|London
+PBYR|1987
+BOOC|F
+INAM|Farmer, Andrew / Cover Art
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|4.5
+PDSC|Half Box --Copy 1:  SOLD VIA ABE 9/3/02 for $20                                                                                Copy 2: HALL SHELF 4 (THREE SHELVES BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|001562
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Cocktail Time
+PBLS|Simon & Schuster
+DESC|First U.S. Edition of the author's third Uncle Fred novel (Jasen 80a). "First Printing" stated on Copyright Page. No Dust Jacket. Book is in VG condition. Book has black boards quarter-bound in pink cloth with green & black lettering along spine; crimping at top & bottom of spine; light soiling along spine and cloth quarter-binding on covers; slight slant to binding; light scuffing to covers; bottom corners bumped; ends lightly browned; light soiling from dust to yellow top-stain, which has small spot near corner of text block; tightly bound with clean pages throughout. S-7
+PRIC|15
+BIND|H
+EDTN|F
+UPDT|3/2/2010
+UPTM|5:03:49 PM
+BCAT|Humor
+BCAT|General Fiction
+ABLE|1
+UBID|1626
+EDNT|First Edition
+JCKC|No Jacket
+BNDC|Boards Quarter-Bound in Cloth
+PBPL|New York
+PBYR|1958
+BOOC|VG
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|4.5
+PDSC|SHELF 7
+BOOE|
+BOOS|
+BOOK|001874
+TRAN|A
+ANAM|Esar, Evan
+TNAM|Esar's Dictionary of Wit and Humor
+PBLS|Harvest House
+DESC|A compendium of one-liners organized "laffabetically,"offering quips from Aardvark ("Aan aanimal that resembles an aanteater") to Zweiback ("A toast that's never drunk"). "First Edition" stated on copyright page. Condition is VG/G. Dust Jacket, in Brodart Protector, has some chipping at top & bottom of spine, which is a bit sun-faded; light damp-stain at top-outside corners overlapping panels and flaps; edge wear in some areas; period jacket art remains bright. Book is bound in brown boards; thin, 1/16-inch chip at top of spine, right side; minor crimp a bottom of spine; spot of wear at corner of front board, bottom-right; top ends lightly soiled from dust; tightly bound with clean pages throughout. Appears to be little used. A good-looking copy of this title -- Take my book, please. S-1
+PRIC|10
+JACK|J
+BIND|H
+EDTN|F
+UPDT|1/26/2010
+UPTM|8:47:11 AM
+BCAT|Humor
+ABLE|1
+UBID|1941
+EDNT|First Edition
+JCKC|G
+BNDC|Boards
+PBPL|New York
+PBYR|1943
+BOOC|VG
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|2
+PDSC|SHELF 1
+BOOE|
+BOOS|
+BOOK|002053
+TRAN|A
+ANAM|Ryskind, Morrie
+TNAM|Unaccustomed as I am
+PBLS|Knopf
+SUB1|Marx Brothers, George S. Kaufman, Walter Winchell
+DESC|First Book published by noted wordsmith and wit of the 1920s and 1930s, a collection of light verse, much of which first appeared in Franklin Adams' newspaper column, The Conning Tower." Ryskind collaborated with George S. Kaufman on many hit plays of the era, co-authored the script for the Marx Brothers' Duck Soup, and was the co-author (with George S. Kaufman and the Gershwins) of Of Thee I Sing, for which he won the Pulitzer Prize, and its sequel, Let 'Em Eat Cake. This copy is INSCRIBED BY THE AUTHOR TO NEWSPAPER COLUMNIST WALTER WINCHELL on the Front End Paper as follows: "Apr. 28, 1926 / For Walter Winchell - / exclusively. / /s/Morrie Ryskind." The inscription is a dig at Winchell's insistence that any tips or inside information given to him must be "an exclusive." Printing unstated; Title Page has 1921 date at bottom, with copyright line on verso dated 1920; 121 pp. VG/Fr.-Pr. condition.  Dust Jacket, in new archival-quality Brodart Protector, is heavily chipped and edge-worn, with large ink stain on front panel; repairs on reverse side of DJ with acid-free archival tape; browning and light soiling on panels and flaps; rear panel features ad for Spring 1921 Borzoi Poetry List, including T.S. Eliot's The Sacred Wood; front panel remains readable, with short description of the book and its author; short bio of Ryskind on front flap, including a proposed inscription for his tombstone: "And let this be his Epitaph / This bard made even highbrows laugh." Book is bound in light green boards with red lettering along spine and at top of front cover; crimping and slight chipping at top & bottom of spine; small remnant of DJ stuck to front cover, bottom-right, with black ink; some scuffing and areas of light fading to boards; light browning and some wear along top & bottom edges of boards; ends browned, with some soiling to top-stain; check marks have been penciled next to some of the poems in the book (possibly in Winchell's hand); otherwise interior is tight and clean. A remarkable association copy between two important figures of Broadway's Golden Era in the 1920s that comes from the Estate of Rose Bigman, who was Winchell's "Girl Friday" for many years.
+PRIC|400
+BIND|H
+SIGN|I
+UPDT|11/22/2010
+UPTM|1:10:48 PM
+BCAT|Poetry
+BCAT|Signed First Editions
+BCAT|Rare
+BCAT|Humor
+ABLE|1
+UBID|2127
+SGNT|Signed by Author
+EDNT|Unstated
+JCKC|Fr.-Pr.
+BNDC|Boards
+PBPL|New York
+PBYR|1921
+BOOC|VG
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|15
+PDSC|SHELF 1
+BOOE|
+BOOS|
+BOOK|002414
+TRAN|A
+ANAM|Nash, Ogden
+TNAM|Everyone But Thee And Me
+PBLS|Little Brown
+DESC|A collection of light verse on a variety of subjects including food (iceberg lettuce, aspic, the hamburger, mustard), odd animals (the clam, the armadillo, the carcajou and the kinkajou) and European geography (Venice, Moscow, Malaga, and Paris), among others, all published here for the first time in book form."First Edition." stated on Copyright Page. Condition is VG+/VG. Dust Jacket, in new archival-quality Brodart Protector, is price-clipped; light chipping at top & bottom of spine, which is lightly browned; short closed tear at bottom of fold between rear panel and flap, with adjacent crease at bottom-left corner of rear panel; front panel has half-inch closed tear, top-left, and small quarter-inch closed tear, top-right; light edge wear in some places elsewhere, along with a few small scuff marks and areas of light soiling; light browning around outer edges of DJ in some places; front panel remains vivid, with cover illustration by John Alcorn. Book is bound in light green cloth with blue and gold lettering along spine and publisher's logo blind-stamped on front cover, center; crimping and light wear at top & bottom of spine; light shelf wear in a few places to covers; ends slightly tanned, with slight fading to blue top-stain; short gift inscription at top of FFEP; tightly bound with clean pages throughout. Book features numerous interior illustrations by John Alcorn. H-2
+PRIC|20
+JACK|J
+BIND|H
+EDTN|F
+UPDT|11/29/2010
+UPTM|11:48:24 AM
+BCAT|Poetry
+BCAT|Humor
+ABLE|1
+UBID|2489
+EDNT|First Edition
+JCKC|VG
+BNDC|Cloth
+PBPL|Boston
+PBYR|1964
+BOOC|VG+
+INAM|Alcorn, John / Cover Art
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|8.1
+PDSC|HALL SHELF 2 (SHELF BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|002669
+TRAN|A
+ANAM|Westlake, Donald E.
+TNAM|Humans
+PBLS|Mysterious Press
+SUB1|FICTION GENERAL
+DESC|Comic novel about an angel sent to Earth to trigger the end of the World. "First Printing: February 1992" stated on Copyright Page over a full number line ending with 1, indicating first printing; $18.95 issue price on DJ. F/F condition. Dust Jacket in new archival-quality Brodart protector. H-6
+PRIC|12.5
+JACK|J
+BIND|H
+EDTN|F
+UPDT|12/1/2010
+UPTM|7:57:03 AM
+BCAT|Modern First Editions
+BCAT|Humor
+ABLE|1
+ISBN|0892964685
+UBID|2749
+EDNT|First Edition
+JCKC|F
+BNDC|Boards Quarter-Bound in Paper
+PBPL|New York
+PBYR|1992
+BOOC|F
+INAM|McLean Wilson / Jacket Illustration
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|1
+PDSC|HALL SHELF 6 (THREE SHELVES UP FROM BOTTOM-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|002981
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Fish Preferred
+PBLS|Simon & Schuster
+DESC|Reprint edition of Wodehouse's 1929 comic novel set at Blandings Castle, issued in the late 1960s by S&S as a "P.G. Wodehouse Classic." Printing unstated; Copyright Page has 1929 copyright line with no designation of printing. Condition is VG-/VG-. Dust Jacket, in a new archival-quality Brodart Protector, is price-clipped; crimping and slight chipping at top & bottom of spine, with small light damp-stain at heel of spine; small quarter-inch closed tear on front panel, bottom-left; light edge wear in some places elsewhere, along with a few small scuff marks and areas of light soiling; front panel remains bright, with attractive cover design by John Alcorn. Book is bound in mustard-colored cloth with black lettering on spine and front cover; crimping and light wear at top & bottom of spine; binding somewhat slanted; a few small scuff marks and light edge wear to covers; ends lightly tanned, with a few small smudges; some fading to yellow top-stain, which has two small spots near spine; blank end papers and paste-downs; gift inscription on FEP; tightly bound with clean pages throughout. S-8
+PRIC|17.5
+BIND|H
+UPDT|3/6/2010
+UPTM|1:31:50 PM
+BCAT|Humor
+ABLE|1
+UBID|3070
+EDNT|Later Printing
+JCKC|VG-
+BNDC|Cloth
+PBPL|New York
+BOOC|VG-
+INAM|Alcorn, John / Cover Art
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|5.4
+PDSC|SHELF 8.
+BOOE|
+BOOS|
+BOOK|003019
+TRAN|A
+ANAM|Meyers, Harold
+TNAM|Let's Play Doctor
+PBLS|Shepsel Books
+DESC|A 128-page collection of jokes and cartoons about the medical profession, many of them risque for the era, or as the DJ describes it: "Racy and Roguish. A Laugh Tonic of Medical Merriment: Patients, Debonnaire Doctors, Incredible Interns, Ogling Orderlies, Psychiatrists, Psychiatrist's Couches, Naughty Nurses." Printing Unstated; Copyright Page has 1955 copyright line with no designation of printing;  $2.00 issue price on DJ. Condition is VG/VG+. Dust Jacket, in new archival-quality Brodart Protector, had been in an old-style jacket protector, which has left it somewhat wrinkled; otherwise, it remains bright and fresh-looking with only minor edge wear and a few small scuff marks; full-color cartoons (that accurately reflect the contents) appear on front and rear panels. Book, which is somewhat musty, is bound in yellow cloth with black lettering on spine and front cover; crimping and light wear at top & bottom of spine; back cover somewhat bowed; a few small scuff marks and light soiling to covers, along with light edge wear in some areas; ends lightly tanned; red end papers and paste-downs; tightly bound with clean pages throughout. S-7
+PRIC|17.5
+JACK|J
+BIND|H
+UPDT|3/6/2010
+UPTM|1:22:42 PM
+BCAT|Humor
+ABLE|1
+UBID|3108
+EDNT|Unstated
+JCKC|VG+
+BNDC|Cloth
+PBPL|New York
+PBYR|1955
+BOOC|VG
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|1.25
+PDSC|SHELF 7.
+BOOE|
+BOOS|
+BOOK|003474
+TRAN|A
+ANAM|Masson, Thomas L. [Editor]; Ade, George; Rogers, Will; Morley, Christopher; Lardner, Ring; Benchley, Robert C.; Wells, Carolyn; Adams, Franklin P.; Cobb, Irwin S. & Others [Contributors]
+TNAM|Tom Masson's Annual for 1924
+PBLS|Doubleday, Page & Co.
+DESC|Second installment in the series of humor annuals compiled by the well-known American humorist and editor of Life magazine. This copy is SIGNED BY THE EDITOR [as Thomas L. Masson] on the Half-Title Page and dated  Oct. 28, 1924 beneath the signature. "First Edition" stated on Copyright Page; $2.00 printed issue price on front flap of DJ. F/F condition. Book looks and feels as new; Dust Jacket, in new archival-quality Brodart protector, is very slightly sun-faded along the spine and has a small nicks and very light edge wear; otherwise, crisp and bright. An unusually well-preserved copy of this title, signed by Tom Masson. S-1
+PRIC|200
+JACK|J
+BIND|H
+EDTN|F
+SIGN|I
+UPDT|4/15/2010
+UPTM|9:41:25 AM
+BCAT|Signed First Editions
+BCAT|Rare
+BCAT|Humor
+ABLE|1
+UBID|3570
+SGNT|Signed by Author
+EDNT|First Edition
+JCKC|F
+BNDC|Cloth
+PBPL|New York
+PBYR|1924
+BOOC|F
+INAM|Crosby, Percy; Birch, Reginald; Webster, H.T.; Sullivant, H.T,; Fuller, R.B.; Herford, Oliver & Others [Interior Drawings & Halftones]
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|4.5
+PDSC|SHELF 1
+BOOE|
+BOOS|
+BOOK|003561
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Meet Mr. Mulliner
+PBLS|Barrie & Jenkins
+DESC|1978 Reprint Edition of Wodehouse novel originally published in 1927. First Thus; Copyright Page states "This Edition published in 1978 by Barrie and Jenkins Ltd." with no additional printings listed. NF/NF condition. Dust Jacket, in new archival-quality Brodart Protector, is price-clipped; light crimping at top & bottom of spine; a few small areas of light scuffing; DJ remains bright and attractive. Book is bound in black boards with gold lettering along spine; light crimping at top & bottom of spine; blank end papers and paste-downs; small area of surface paper loss on FEP, top-right, where price sticker was removed; otherwise, interior remains tight and clean throughout. Appears to be an unread copy. S-6
+PRIC|22.5
+JACK|J
+BIND|H
+UPDT|2/25/2010
+UPTM|12:37:06 PM
+BCAT|Humor
+ABLE|1
+ISBN|0257660623
+UBID|3658
+EDNT|First Thus
+JCKC|NF
+BNDC|Boards
+PBPL|London
+PBYR|1978
+BOOC|NF
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|5.36
+PDSC|SHELF 6
+BOOE|
+BOOS|
+BOOK|003718
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Bachelors Anonymous
+PBLS|Simon & Schuster
+DESC|A comic novel about a group of men dedicated to celibacy who send an emissary to London to aid a member  in danger of succumbing to a woman's charms. Copyright Page has a full number line starting with the numeral "1," indicating first printing; $6.95 issue price on DJ. This copy has the ownership stamp of the library at a New York City old age home on its end papers, but has none of the usual library marking, and appears to be unread. Condition is VG/VG+. Dust Jacket, in new archival-quality Brodart Protector, has some light crimping at top & bottom of spine; small abrasion near top of fold between spine and rear panel; vertical crease on right side of front flap; light edge wear in some places elsewhere, along with a few small scuff marks; light browning or toning around outer edges of DJ in some areas; front panel remains vivid, with cover illustration by Osbert Lancaster. Book is bound in blue cloth with silver lettering along spine and drawing of cupid in silver on front cover, bottom-right; crimping and light wear at top & bottom of spine; a few small scuff marks and light edge wear to covers; ends lightly tanned, with a few small smudges; Simon & Schuster logo rubber-stamped on bottom ends near spine as remainder mark; blank end papers and paste-downs (that bear the rubber stamps described above); tightly bound with clean pages throughout. H-15
+PRIC|15
+JACK|J
+BIND|H
+EDTN|F
+UPDT|12/4/2010
+UPTM|12:38:36 PM
+BCAT|Humor
+ABLE|1
+UBID|3820
+EDNT|First Edition
+JCKC|VG+
+BNDC|Cloth
+PBPL|New York
+PBYR|1974
+BOOC|VG
+INAM|Lancaster, Osbert / Cover Illustration
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|6.75
+PDSC|Offered @$12.50 on ebay week of 2/9/08. HALL SHELF 15 (ONE SHELF BELOW TOP-LEFT SHELF) 
+BOOE|
+BOOS|
+BOOK|003790
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Laughing Gas
+PBLS|Herbert Jenkins
+DESC|The "Autograph Edition" of this Wodehouse novel, originally published by Jenkins in 1936. First Thus; Copyright Page states "First Published by Herbert Jenkins, Limited. . . . 1936 / First published in the A reprint edition of this Wodehouse title originally published by Jenkins in 1936 and an entry in the publisher's "Autograph Edition" series of reprints of Wodehouse's works. Copyright Page states "First  Published by Herbert Jenkins Limited . . .1936 . . .First Published in the Autograph Edition 1959" with no additional printings listed, indicating first printing. Condition is VG/VG. Dust Jacket, in new archival-quality Brodart Protector, is price-clipped; scalloped chipping up to 3-8 inch in depth at top & bottom of spine, which is somewhat browned; edge wear in some places, including small chips and one or two small closed tears; light browning to DJ generally, along with a few small scuff marks and areas of light soiling; front panel remains vivid. Book is bound in green boards with gold lettering on spine; some crimping at top & bottom of spine; binding a bit slanted; bottom corners lightly bumped; light edge wear to covers; ends browned, with some areas of light soiling; blank end papers and paste-downs; name written at top-right corner of FEP; slight "give" at Title Page; otherwise, binding remains sound with clean pages throughout. H-3
+PRIC|20
+JACK|J
+BIND|H
+UPDT|11/30/2010
+UPTM|2:26:08 PM
+BCAT|Humor
+ABLE|1
+UBID|3893
+EDNT|First Thus
+JCKC|VG
+BNDC|Boards
+PBPL|London
+PBYR|1959
+BOOC|VG
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|6.75
+PDSC|Offered on ebay @$15.00 week of 1/14/09. HALL SHELF 3 (TWO SHELVES BELOW THE TOP-RIGHT SHELF)
+BOOE|
+BOOS|
+BOOK|003817
+TRAN|A
+ANAM|Jennings, Paul
+TNAM|Oddly Ad Lib
+PBLS|Max Reinhardt
+DESC|A collection of pieces by the British Humorist, one of the last of his "Oddly" series begun in the early 1950s. This title collects stories originally published in Punch, Esquire, and The Observer. "First Published 1965" stated on Copyright Page, with no additional printings listed, indicating first printing. Condition is VG+/VG+. Dust Jacket, in new archival-quality Broadart protector, is price clipped; crimping at top & bottom of spine, with small, thin chip at top of spine; light browning along spine and around outer edges of DJ; a few small scuff marks and areas of light soiling; front panel remains vivid, with jacket design by Michael Harvey. Book is bound in boards covered in yellow cloth, with blue lettering along spine; slight crimping at top & bottom of spine; slight slant to binding; faint diagonal crease in cloth covering board at bottom of front cover; ends tanned; blank end papers and paste-downs; tight & clean inside. A good-looking example of this Jennings title, which is somewhat scarce. H-6
+PRIC|50
+JACK|J
+BIND|H
+EDTN|F
+UPDT|4/26/2015
+UPTM|2:27:20 PM
+BCAT|Humor
+ABLE|1
+UBID|3921
+EDNT|First Edition
+JCKC|VG+
+BNDC|Cloth-Covered Boards
+PBPL|London
+PBYR|1965
+BOOC|VG+
+INAM|Harvey, Michael / Jacket Design
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|1
+PDSC|Hall SHELF 6
+LOCA|SHELF 11
+BOOE|
+BOOS|
+BOOK|003851
+TRAN|A
+ANAM|Karbo, Karen
+TNAM|Generation Ex: Tales from the Second Wives Club
+PBLS|Bloomsbury
+DESC|SOFTCOVER Advance reading copy of nonfiction humor work about "the state of marriage, divorce, and remarriage" published in 2001, bound like a trade paperback for pre-publication distribution to reviewers. An unread copy, with slight wear from storage. S-9
+PRIC|6
+BIND|S
+EDTN|F
+UPDT|6/13/2010
+UPTM|5:03:00 PM
+BCAT|Humor
+BCAT|ARCs/Uncorrected Proofs
+ABLE|1
+ISBN|1582341265
+UBID|3956
+EDNT|Advance Reading Copy
+JCKC|No Jacket
+BNDC|Original Wraps
+PBPL|New York
+PBYR|2001
+BOOC|F
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Advanced Reading Copy (ARC)
+STAT|For Sale
+PPRC|1
+PDSC|SHELF 9
+BOOE|
+BOOS|
+BOOK|004119
+TRAN|A
+ANAM|Dole, Bob
+TNAM|Great Political Wit
+PBLS|Doubleday
+DESC|A collection of political "I wish I had said that" lines collected by the long-time senator from Kansas, and 1996 Republican candidate for president. "First Edition" stated on Copyright Page above a full number line beginning with the numeral "1," indicating first printing; $16.95 printed issue price on front flap of DJ. This copy HAS BEEN INSCRIBED by Senator Dole on the Title Page as follows: "To ________ -- / Best wishes. / Bob Dole". Condition is NF/NF.  Dust Jacket, in new archival-quality Brodart Protector, has some light edge wear and a few small scuff marks; horizontal scratch along bortom of front panel; otherwise, DJ remains crisp and fresh-looking. Book has blue boards quarter-bound in blue paper with silver lettering on spine;  slight edge wear at top & bottom of spine; corners lightly bumped, along with light bump at center of fore-edges; red end papers and paste-downs; interior tight & clean throughout. Appears to be an unread copy. S-11
+PRIC|15
+JACK|J
+BIND|H
+EDTN|F
+SIGN|I
+UPDT|11/18/2011
+UPTM|9:43:52 AM
+BCAT|Signed First Editions
+BCAT|Humor
+ABLE|1
+UBID|4230
+SGNT|Inscribed By the Author
+EDNT|First Edition
+JCKC|NF
+BNDC|Boards Quarter-Bound in Paper
+PBPL|New York
+PBYR|1998
+BOOC|NF
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|2
+PDSC|Shelf 11
+BOOE|
+BOOS|
+BOOK|004123
+TRAN|A
+ANAM|Westlake, Donald E.
+TNAM|Jimmy the Kid
+PBLS|M. Evans & Company
+DESC|First Edition of the author's third comic caper novel about the Dortmunder gang in the trilogy that includes The Hot Rock and Bank Shot. Copyright Page has a full number line ending with the numeral "1," indicating first printing; printed $6.95 issue price on DJ. Condition is VG/VG. Dust Jacket, in new archival-quality Brodart Protector, has some crimping and light wear at top & bottom of spine, which is a bit sun-faded; slight sun-fading on left side of front panel along spine; light edge wear in some places elsewhere, along with a few small sccuff marks; front panel remains vivid, with attractive jacket design by Don Bender. Book has brown boards quarter-bound in blue cloth with silver lettering along spine; crimping at top & bottom of spine; text block slightly separated from cloth at top of spine; thin area of sun-fading at top of cloth quarter-binding; slight edge wear to covers; ends clean, with slight fading to green top-stain near spine; red end papers and paste-downs; interior tight & clean throughout. S-8
+PRIC|45
+JACK|J
+BIND|H
+EDTN|F
+UPDT|12/18/2011
+UPTM|12:06:57 PM
+BCAT|Mystery
+BCAT|Humor
+ABLE|1
+UBID|4234
+EDNT|First Edition
+JCKC|VG
+BNDC|Boards Quarter-Bound in Cloth
+PBPL|New York
+PBYR|1974
+BOOC|VG
+INAM|Bender, John / Jacket Design
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|2
+PDSC|Shelf 8
+BOOE|
+BOOS|
+BOOK|004585
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|The Cat-nappers: A Jeeves & Bertie Story
+PBLS|Simon & Schuster
+DESC|First Edition of the Wodehouse's final novel, first published in the U.K. under the title Aunts Aren't Gentlemen and released here shortly after Wodehouse's death on Feb. 14, 1975. Copyright Page has a full number line beginning with the numeral "1," indicating first printing; $6.95 issue price on front flap of Dust Jacket. Condition is VG/VG+.   Dust Jacket, in new archival-quality Brodart Protector, has light wear at top & bottom of spine; small 1-4 inch closed tear with adjacent crease on rear panel, top-center; 1+ inch closed tear on rear flap, bottom-left; light edge wear in some places elsewhere, along with some light toning to rear panel and flaps; front panel remains bright, with attractive jacket design by Norman Green. Book is bound in brown cloth with silver lettering on spine and design motif incorporating the head of a cat in black on front cover; crimping and light wear at top & bottom of spine; binding a bit slanted; a few small white spots on front cover; some scuffing and light edge wear to covers; ends lightly tanned; beige end papers and paste-downs; a few pages in the front of the book dog-eared, top-right, otherwise binding remains sound with clean pages throughout. H-1
+PRIC|17.5
+JACK|J
+BIND|H
+EDTN|F
+UPDT|8/17/2013
+UPTM|9:50:26 AM
+BCAT|Humor
+BCAT|General Fiction
+ABLE|1
+ISBN|0671219723
+UBID|4702
+EDNT|First Edition
+JCKC|VG+
+BNDC|Cloth
+PBPL|New York
+PBYR|1975
+BOOC|VG
+INAM|Green, Norman / Jacket Design
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|6.75
+PDSC|Hall Shelf 1
+BOOE|
+BOOS|
+BOOK|004610
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|The Man With Two Left Feet and Other Stories
+PBLS|Methuen & Co.
+DESC|Later printing of this colection of Wodehouse stories, originally issued in 1917. Copyright Page states "This book was first published March 8, 1917 / It has been reprinted sixteen times / Seventeenth edition, 1948 / Reprinted 1952" with no additional printings listed; 7s. 6d. issue price on front flap of Dust Jacket. Condition is VG/Fr.-G. Dust Jacket, in new archival-quality Brodart Protector, has scalloped chipping up to 3-8 inch in depth at top of spine, and up to 1-4 inch at bottom of spine;  front panel has small chip, top-center, and 3-4 inch chip top-right; rear panel has 2 & 1-2 inch chip, bottom-right; light edge wear in some places elsewhere, including small chips, light creases and small closed tears; DJ is lightly soiled generally, with a few areas of faint staining; front panel remains vivid, with attractive cover illustration. Book is bound in orange cloth-covered boards with black lettering on spine; light crimping at top & bottom of spine; light edge wear to covers; ends lightly browned; plain end papers and paste-downs; book plate pasted onto FEP, center, noting that this book was presented as an award at St. Xavier's College in Calcutta; binding remains sound with clean pages throughout. L-6
+PRIC|25
+JACK|J
+BIND|H
+UPDT|3/6/2013
+UPTM|8:06:16 AM
+BCAT|Humor
+ABLE|1
+UBID|4727
+EDNT|Later Printing
+JCKC|Fr.-G
+BNDC|Cloth-Covered Boards
+PBPL|London
+PBYR|1952
+BOOC|VG
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|5.4
+PDSC|Livingroom Shelf 6
+BOOE|
+BOOS|
+BOOK|004640
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|Jeeves and the Feudal Spirit
+PBLS|Herbert Jenkins
+DESC|The publisher's "Autograph Edition" of this 1954 Wodehouse novel featuring his signature characters, Jeeves and Bertie Wooster. Copyright Page states "First published by / Herbert Jenkins Limited, . . / 1954 / First published in the / Autograph Edition / 1962" with no additional printings listed, indicating first printing of this edition. Condition is NF/NF. Dust Jacket, in new archival-quality Brodart Protector, has some light wear at top & bottom of spine, which is light browned; light edge wear in a few places elsewhere; front flap is price-clipped, bottom-left; front panel remains vivid. Book is bound in turquoise cloth-covered boards with gold lettering on spine and author's facsimile signature blind-stamped on front cover, bottom-right; top corner of front cover very lightly bumped; scuff mark on front cover, bottom-center; light shelf wear to covers; ends slightly tanned, with dark and well-preserved blue top-stain; plain end papers and paste-downs; interior remains tight & clean throughout. S-15 
+PRIC|18
+JACK|J
+BIND|H
+UPDT|3/19/2013
+UPTM|8:55:47 AM
+BCAT|Humor
+ABLE|1
+UBID|4757
+EDNT|First Thus
+JCKC|NF
+BNDC|Cloth-Covered Boards
+PBPL|London
+PBYR|1962
+BOOC|NF
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|6.75
+PDSC|Shelf 15
+BOOE|
+BOOS|
+BOOK|004876
+TRAN|A
+ANAM|Wodehouse, P. G. (Pelham Grenville)
+TNAM|The Brinksmanship of Gallahad Threepwood
+PBLS|Simon & Schuster
+DESC|Trade Edition of this Wodehouse novel that introduces his fans to "the most distinguished member -- some would say the only distinguished member -- of the family of which Lord Emsworth is the head." Copyright Page states "Second Printing"; printed $4.50 issue price on front flap of Dust Jacket. Condition is NF/NF. Dust Jacket, in new archival-quality Brodart protector, has light crimping at top & bottom of spine; light edge wear in some places, and with some light browning or toning around outer edges of DJ; front panel remains bright and fresh-looking, with attractive jacket illustration by John Alcorn. Book has light brown boards quarter-bound in yellow cloth with bule and gold lettering on spine and drawing of the Blandings pig on front board, bottom-right; light crimping at top & bottom of spine; light shelf wear to covers; ends lightly tanned with some darkening to yellow top-stain; plain end papers and paste-downs; interior remains tight & clean throughout. H-6
+PRIC|22.5
+JACK|J
+BIND|H
+UPDT|5/6/2014
+UPTM|3:54:52 PM
+BCAT|Humor
+ABLE|1
+UBID|4993
+EDNT|Second Printing
+JCKC|NF
+BNDC|Boards Quarter-Bound in Cloth
+PBPL|New York
+PBYR|1964
+BOOC|NF
+INAM|Alcorn, John /  Jacket Design
+SIZE|8vo - over 7¾" - 9¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|6.75
+PDSC|Hall Shelf 6 (two up from bottom-right shelf)
+BOOE|
+BOOS|
+BOOK|004908
+TRAN|A
+ANAM|Brahms, Caryl & S. J. Simon
+TNAM|A Bullet in the Ballet
+PBLS|Michael Joseph
+DESC|New, 5 Shilling edition of the authors' comic novel about the world of ballet, first published in 1937. Copyright page state "First published by Michael Joseph LTD... June 1937 / Type destroyed by enemy action April 1941 / Second impression (re-set) October 1948 / First published in this edition 1951." Condition is VG+/VG. DJ in new archival-quality Brodart protector, has scalloped chipping up to 1-4 inch in depth at top of spine, which is somewhat browned, with scalloped chipping up to 1-8 inch in depth at bottom of spine; small chips at corners between panels and flaps; slight chipping along top panels and bottom of front panel; 5-Shilling issue price printed on spine and at bottom of front panel; light darkening along edges and light soiling generally; front panel remains vivid, with attractive cover design. Book is bound in red cloth with blue lettering on spine and front cover; light crimping and slight darkening at top and bottom of spine; some darkening to right side of front cover, which is slightly bowed; slight darkening around outer edges of covers, with small spot on bottom-left edge of front cover; ends lightly browned with some light soiling to ends and small spot near center of top ends, slightly affecting interior pages; plain end papers and paste-downs; binding remains sounds with clean pages throughout. S-11
+PRIC|25
+JACK|J
+BIND|H
+UPDT|6/15/2015
+UPTM|4:29:04 PM
+BCAT|Humor
+BCAT|General Fiction
+ABLE|1
+UBID|5025
+EDNT|First Thus
+JCKC|VG
+BNDC|Cloth
+PBPL|London
+PBYR|1951
+BOOC|VG+
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|5.4
+PDSC|Shelf 11
+BOOE|
+BOOS|
+BOOK|004911
+TRAN|A
+ANAM|Arno, Peter
+TNAM|Whoops Dearie!
+PBLS|Simon & Schuster
+DESC|First Edition of Arno's first book, published about two years after he joined the staff of The New Yorker. Arno, who was a prolific contributer to The New Yorker as a cartoonist and who helped to shape The New Yorker cartoon as we know it, did nearly 100 covers and did numerous cartoons during his career there, from 1925 to 1968. First Edition; Copyright Page has 1927 copyright line, with no designation of printing, indicating first printing This copy has been SIGNED BY PETER ARNO on the front end paper. Condition is VG+/VG. Dust Jacket, in new archival-quality Brodart protector has scalloped chipping up to 1-4 inch at top and bottom of spine, which is lightly soiled; rear panel has 1 inch x 1-2 inch chip, top-left, 1 inch crease, top-left, and small spot on right side near bottom of spine; front panel has tiny chip and 1-4 inch closed tear, top-left, along with a few small scuff marks; small chips at corners between panels and flaps; light soiling generally to panels; front flap retains $1.75 issue price; flaps slightly tanned; front panel remains bright and attractive. Book is bound in red cloth with gold lettering on spine and front cover, and design motif in gold at center of cover; crimping at top and bottom of spine; top corner of front cover very lightly bumped; ends tanned with light soiling from dust to top ends; blank paste-downs and end papers; binding remains sound with clean pages throughout. The book is dedicated to fellow New Yorker cartoonist Rea Irvin, who created the enduring Eustace Tully cover that appeared on the first issue of The New Yorker, and has appeared there annually ever since in some form.  S-11
+PRIC|110
+JACK|J
+BIND|H
+SIGN|I
+UPDT|7/2/2015
+UPTM|3:43:50 PM
+BCAT|Signed First Editions
+BCAT|Humor
+ABLE|1
+UBID|5028
+SGNT|Signed by Author
+EDNT|First Edtion
+JCKC|VG
+BNDC|Cloth
+PBPL|New York
+PBYR|1927
+BOOC|VG+
+INAM|Arno, Peter / Dust Jacket & Interior Cartoons
+SIZE|12mo - over 6¾" - 7¾" tall
+BTYP|Hard Cover
+STAT|For Sale
+PPRC|10
+PDSC|Shelf 11
+BOOE|
+TRLS|
+PRCT|HBV3.0
+DATE|12/7/2018 11:29:18 PM
+TIME|23:29:18
+HVER|2.3.30
+USER|dbabookstore
+COMM|
+SYST|PROD
+FNAM|C:\Users\Albert\Desktop\ABES\DB20181207232907-humor.txt
+HPFM|
+TADD|24
+TDEL|0
+TCNT|24
+TRLE|
