@@ -1,0 +1,2859 @@
+BOOS|
+BOOK|ABE-1562518339268
+ANAM|Lovecraft, H.P.
+TNAM|Selected Letters Vols. 4 & 5
+PBLS|Arkham House
+PBYR|1976
+SUB1|LETTERS,SCIENCE FICTION
+DESC|Vols 4 and 5 ONLY of 5-volume set. Arkham House, 1976. Both vols in VG/VG condition with black card pasted down in endpapers of both vols, light bumping to top of spine, sunning to top edges and spines of jackets.
+PRIC|70.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562518741171
+ANAM|Lovecraft, H.P.
+TNAM|Selected Letters Vols. 4 & 5
+PBLS|Arkham House
+PBYR|1976
+SUB1|LETTERS,SCIENCE FICTION
+DESC|Vols 4 and 5 ONLY of 5-volume set. Arkham House, 1976. Both vols in VG/VG condition with light bumping to top of spine, light sunning to top edges and spines of jackets. Two very nice volumes from this rare set.
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562519285262
+ANAM|Radiguet, Raymond
+TNAM|The Devil In The Flesh
+PBLS|Harrison Smith/Crosby
+PBYR|1932
+SUB1|LITERATURE
+DESC|Harrison Smith/Crosby continental editions, 1932. Preface by Aldous Huxley. hardcover/jacket in VG/VG condition, light foxing to paste-downs and endpapers, small holes in head of stitching. light discolouration on edges of boards and jacket.
+PRIC|170.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562520139804
+ANAM|Connolly, Cyril
+TNAM|Enemies of Promise
+PBLS|Routledge & Sons
+PBYR|1938
+SUB1|ESSAY,CRITICISM
+DESC|Routledge & sons, 1938. hardcover/jacket in NF/NF condition. tops of pages lightly dust-soiled, light shelf rubbing on outside bottom edges of pages. jacket likewise has light dust, some rubbing/crimping and browning along top edge
+PRIC|600.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562599904841
+ANAM|Bernieres, Louis de
+TNAM|Captain Corelli's Mandolin
+PBLS|Secker & Warburg
+PBYR|1994
+DESC|Secker & Warburg first edition, 1994. hardcover/jacket in Fine/Fine condition. paper has light browning around edges, jacket has small scratch.
+PRIC|350.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Fine
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|15
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562600111801
+ANAM|Hemingway, Ernest
+TNAM|A Farewell To Arms
+PBLS|Scribner's Sons
+PBYR|1929
+SUB1|LITERATURE
+DESC|Scribner's 1929. First edition, first issue. Black clothbound with gilt embossing on front and spine. No jacket. VG+. Plate of Skinner/Blodgett
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/11/2019
+UPTM|20:46:47
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562602797602
+ANAM|Probst, Anton
+TNAM|Trial of Anton Probst, For The Murder of Christopher Dearing and Family, As Well as His Two Confessions
+PBLS|T.B. Peterson & Brothers
+PBYR|1866
+SUB1|HISTORICAL,CRIME,NONFICTION
+DESC|T.B. Peterson & Brothers, 1866. Cardboard sides with mildewing. Binding is damaged with pages loose. ink stamps in endpapers. Discolouration to all pages, possibly from water damage.
+PRIC|350.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|S
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Soft cover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|37
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562602877723
+ANAM|Burke, Thomas
+TNAM|The Real East End
+PBLS|Constable & co.
+PBYR|1932
+DESC|Constable & co first edition, 1932. Lithographed frontispiece, plates, illustrations and jacket design by Pearl Binder. hardcover/jacket, NF/VG with price-clipped jacket, jacket has some minor fraying and repairs.
+PRIC|600.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562604405327
+ANAM|Asimov, Isaac
+TNAM|Buy Jupiter, and Other Stories
+PBLS|Fawcett Crest
+PBYR|1975
+SUB1|SCIENCE FICTION, PAPERBACK
+DESC|Fawcett Crest copyright 1975. Inscribed and signed by author, dated 1983.
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|S
+SIGN|I
+SGNT|Signed by Author(s)
+BNDC|Soft cover
+BOOC|Very Good
+BSAT|37
+BSAT|1
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562604617885
+ANAM|Melville, Herman
+TNAM|Moby-Dick: or, The Whale
+PBLS|Modern Library
+PBYR|1926
+SUB1|FICTION,MODERN LIBRARY
+DESC|Stated first ML edition, 1926. VG hardcover w/o jacket, some damage to corners and spine of leatherette.
+PRIC|350.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|S
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Soft cover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|37
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562605119934
+ANAM|Eliot, T. S.
+TNAM|Old Possum's Book of Practical Cats
+PBLS|Harcourt, Brace & Co.
+PBYR|1939
+SUB1|POETRY,LITERATURE,ILLUSTRATED
+DESC|Harcourt, Brace & Co. 1939. Illustrated. Text is mostly clean and in good condition. Some chips around top of jacket; most of spine is missing. Name in pen inside cover.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Fair
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|19
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562605648712
+ANAM|Sackville-West, Vita
+TNAM|Passenger to Tehran
+PBLS|Hogarth Press
+PBYR|1926
+SUB1|LITERATURE
+DESC|Hogarth 1926. Hardcover w/o jacket. Ex-Library. Marbled red boards with gilt lettering on spine. Photographic plates. Possible repair in endpapers. Stamp in endpaper, as well as some foxing. Text is extremely clean and binding is intact if slightly loose. Light spotting on exteriors of pages.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562636210111
+ANAM|Steinbeck, John
+TNAM|Cannery Row
+PBLS|Viking
+PBYR|1945
+SUB1|LITERATURE
+DESC|Viking 1945. First US edition, hardcover/jacket in VG+/VG condition. Jacket is clipped and has fraying around spine. Some yellowing on exteriors of pages. Plate of Skinner/Blodget
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562638272773
+ANAM|Cellini, Benvenuto
+TNAM|The Life of Benvenuto Cellini: A Florentine Artist, trans. by Thomas Nugent (2 Vols)
+PBLS|T. Davies
+PBYR|1771
+DESC|T. Davies 1771. Bookplates in both volumes. Brown calf with red and brown spine labels, raised banding and gilt decoration. In good conditions.
+PRIC|500.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Good
+BSAT|21
+BSAT|36
+BSAT|10
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562697383298
+ANAM|Dawson, Henry B.
+TNAM|Westchester-County, New York, during The American Revolution
+PBLS|Mossiania
+PBYR|1886
+SUB1|HISTORY
+DESC|Mossiania, New York City 1886. Limited edition, 56 of 250. Signed by the author. Maps intact and very good condition, with one corner bent.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|S
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Soft cover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|37
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562702793330
+ANAM|Capote, Truman
+TNAM|Other Voices, Other Rooms
+PBLS|Random House
+PBYR|1948
+SUB1|LITERATURE
+DESC|Random House stated first printing. hardcover/jacket in VG+/fair condition. small pen in endpaper. tan boards with red and green decoration, slight colour rubbing on hardcover. jacket has substantial rips, including one across front. Price-clipped.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Fair
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|19
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562702946428
+ANAM|Capote, Truman
+TNAM|The Grass Harp
+PBLS|Random House
+PBYR|1951
+SUB1|LITERATURE
+DESC|Random House stated first printing, 1951. hardcover/jacket in VG/VG condition. Jacket has some chipping and a small (~0.8cm) tear/crack on the front. Price-clipped.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562704840793
+ANAM|Conrad, Joseph
+TNAM|Some Reminiscences
+PBLS|Eveleigh Nash
+PBYR|1912
+SUB1|LITERATURE,MEMOIR
+DESC|Eveleigh Nash, 1912 (presumed first). Blue clothbound with gilt on front and spine in good condition. VG overall with foxing only in endpapers. scuffing to bottoms of boards. Advertisements in back. Plate of Skinner/Blodget
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562705859932
+ANAM|Camus, Albert
+TNAM|The Fall
+PBLS|Hamish Hamilton
+PBYR|1957
+SUB1|PHILOSOPHY
+DESC|Hamish Hamilton, 1957. hardcover/jacket in Fine/NF condition, with very light rubbing and sunning to jacket.
+PRIC|125.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Fine
+BSAT|16
+BSAT|7
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562721024042
+ANAM|Marquis, Don
+TNAM|archy and mehitabel
+PBLS|Doubleday, Doran & co
+PBYR|1928
+SUB1|VERSE,SHORT STORIES
+DESC|Doubleday, Doran & co 1928. hardcover w/o jacket in NF condition. black clothbound with pasted-on labels on front and spine, spine label has light wear to sides. some rubbing to boards and smudge on bottom of pages. Inscribed and signed by author, to stage actor Otis Skinner.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562723566690
+ANAM|McCullers, Carson
+TNAM|The Ballad of The Sad Café
+PBLS|Houghton Mifflin
+PBYR|1951
+SUB1|LITERATURE
+DESC|Houghton Mifflin, 1951 (first edition). hardcover/jacket in VG/G condition with bumped corners and ends. pieces missing from top and bottom of spine of jacket.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|18
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562723692507
+ANAM|Saroyan, William
+TNAM|Little Children
+PBLS|Harcourt, Brace & co
+PBYR|1937
+DESC|Harcourt, Brace & co 1937. hardcover/jacket VG/VG condition. Small bookseller's sticker on back pastedown. Endpapers faintly browned. Edges lightly spotted. Top edges of boards slightly dusty. Jacket has some rubbing, fraying, with a couple of short tears and creases at the top of the rear panel.
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562723803063
+ANAM|Monsarrat, Nicholas
+TNAM|The Cruel Sea
+PBLS|Cassell & co
+PBYR|1951
+SUB1|LITERATURE
+DESC|Cassell & co 1951. First edition with 'Overseas edition' jacket. hardcover/jacket in VG/VG condition. Jacket has light chipping around sides and contact points.
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562790788496
+ANAM|Spark, Muriel
+TNAM|The Prime of Miss Jean Brodie
+PBLS|Macmillan
+PBYR|1961
+SUB1|LITERATURE
+DESC|Macmillan first edition, 1961. Hardcover/jacket VG/VG, head and tail of spine and corners slightly rubbed. Rubbed and slightly dusty jacket darkened at spine and edges and with a later price sticker on the upper panel.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562790908319
+ANAM|Connolly, Cyril [as Palinurus]
+TNAM|The Unquiet Grave
+PBLS|Horizon
+PBYR|1944
+SUB1|APHORISMS,LITERATURE
+DESC|Horizon, 1944. One of 1000 numbered copies (#269). Original wrappers. softcover, NF with some spots, very light yellowing on top edge.
+PRIC|120.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|S
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Soft cover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|21
+BSAT|37
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562790995532
+ANAM|Crane, Walter
+TNAM|The Old Garden and Other Verses
+PBLS|Houghton, Mifflin & co
+PBYR|1893
+SUB1|VERSE
+DESC|Houghton, Mifflin & co 1893. hardcover w/o jacket in VG+ condition, color illustrations on every page, pages double-thick and unseparated. color illustrated boards with some spots, scuffs, rubbing around sides. small crack between spine and front board. Bookplate.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791077450
+ANAM|Wolfe, Tom
+TNAM|The Kandy Kolored Tangerine Flake Streamline Baby
+PBLS|Farrar, Straus & Giroux
+PBYR|1965
+SUB1|LITERATURE
+DESC|Farrar, Straus & Giroux stated first printing, 1965. hardcover/jacket in NF/VG+ condition, top edges of covers spotted, head and tail of spine of jacket bumped, some rubbing.
+PRIC|145.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791245864
+ANAM|Maclaren-Ross, Julian
+TNAM|The Nine Men of Soho
+PBLS|Allan Wingate
+PBYR|1946
+SUB1|SHORT STORIES,LITERATURE
+DESC|[Stylised as 'The 9 Men of Soho'] Allan Wingate 1946. hardcover/jacket in VG/VG condition. rubbing, fraying, tears to jacket. Plate of Skinner/Blodget
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791295248
+ANAM|Golding, William
+TNAM|Pincher Martin
+PBLS|Faber and Faber
+PBYR|1956
+SUB1|LITERATURE
+DESC|Faber and Faber 1956 (first edition). hardcover/jacket in NF/NF condition with light foxing to exteriors of pages only, very slight nick to top of jacket.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791358460
+ANAM|Huxley, Aldous
+TNAM|Eyeless in Gaza
+PBLS|Chatto & Windus
+PBYR|1936
+SUB1|LITERATURE
+DESC|Chatto & Windus 1936. hardcover/jacket in NF/VG+ with one piece of spine missing and some rubbing at corners of jacket, small candle-wax stain on front.
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791430843
+ANAM|MacInnes, Colin
+TNAM|Absolute Beginners
+PBLS|Macgibbon & Kee
+PBYR|1959
+SUB1|LITERATURE
+DESC|Macgibbon & Kee first eddition, 1959. hardcover/jacket in VG+/VG+ condition. red clothbound with light wear and faded gilt lettering on spine, dust and extremely small spots on tops of pages only, with only one larger than about a half mm across. one small water spot on the bottom of pages. jacket has some light discoloration/waves from what looks like water but is otherwise intact and clean with very little sign of wear/rubbing. light fading to front and back endpapers.
+PRIC|250.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562791541520
+ANAM|Conrad, Joseph
+TNAM|'Twixt Land and Sea
+PBLS|Dent & Sons
+PBYR|1912
+SUB1|LITERATURE
+DESC|Dent & sons, 1912: first edition, third issue. hardcover w/o jacket in VG condition. Green clothbound with black lettering and decoration on front, gilt lettering and decoration on spine in bright and clean condition. red stained tops of pages show darkening. foxing on exteriors of pages and endpapers, very light to moderate foxing through parts of text. Plate of Blodget
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562875475979
+ANAM|Maclaren-Ross, Julian
+TNAM|Bitten By The Tarantula
+PBLS|John Banting
+PBYR|1945
+SUB1|LITERATURE
+DESC|John Banting, 1945. hardcover/jacket, VG+/VG. foxing in endpapers. some wear to bottom spine of hardcover. Jacket has some pieces missing around conctact points: top front corner, top and bottom of spine. one other rip on back of jacket, and other light chipping/wear. Name in endpaper.
+PRIC|130.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562875553403
+ANAM|Hughes, Richard
+TNAM|A High Wind In Jamaica
+PBLS|Chatto & Windus
+PBYR|1929
+SUB1|LITERATURE
+DESC|Chatto & Windus first edition, 1929. hardcover/jacket in VG+/VG+ condition, some foxing to text, just on first/last pages and on exteriors of pages. Some fading, soiling to jacket. Bookplate.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562875641935
+ANAM|State of New York
+TNAM|Adirondack Map, 1908
+SUB1|MAPS,INFORMATION
+DESC|hardbound green cloth binder with gilt lettering and holes for string ties. slight scuffing at corners but otherwise excellent colour and condition. four maps in very good condition, with slight yellowing at exposed edges.
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562875769495
+ANAM|Wilson, Angus
+TNAM|Such Darling Dodos and Other Stories
+PBLS|Secker & Warburg
+PBYR|1950
+SUB1|SHORT STORIES,LITERATURE
+DESC|Secker & Warburg, 1950. hardcover/jacket in VG/VG condition. jacket lightly rubbed and faded. text is bright and clean. inscribed and signed by author, to publisher.
+PRIC|120.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+SIGN|I
+JACK|J
+SGNT|Inscribed by Author(s)
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|2
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562876048615
+ANAM|Richards, Laura E.
+TNAM|Snow-White or The House In The Wood
+PBLS|Dana Estes & Co.
+PBYR|1900
+DESC|Dana Estes & Co 1900. Near fine with some bumping, fading to spine of hardcover, occasional small spots and weakening in middle of binding. Pen inscription inside cover. Otherwise a very bright, clean, intact copy which remains readable.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562876423585
+ANAM|Vonnegut Jr., Kurt
+TNAM|The Sirens of Titan
+PBLS|Dell Publishing
+PBYR|1959
+SUB1|SCIENCE FICTION,PAPERBACK,LITERATURE
+DESC|Dell publishing: first printing, 1959. VG+ condition with some wear.
+PRIC|125.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|S
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Soft cover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|37
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562876748227
+ANAM|Kaufman, George S. and Moss Hart
+TNAM|The Man Who Came To Dinner
+PBLS|Random House
+PBYR|1939
+SUB1|RANDOM HOUSE PLAYS,DRAMA
+DESC|a Random House play, first US edition 1939. hardcover/jacket in VG/VG condition. corner of first page is ripped off. Jacket has minor scuffs, chipping to top and bottom of spine, small hole in jacket
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562952870136
+ANAM|Morgan, Alfred P.
+TNAM|The Boy Electrician: With Many Illustrations
+PBLS|George G. Harrap & Co
+PBYR|1923
+SUB1|SCIENCE,YOUTH
+DESC|George G. Harrap & Co, revised edition 1923. G/G with front free endpaper missing, foxing to back endpaper with much lighter foxing to back pages. Top edge of jacket missing on front and spine, small pieces missing from back.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Good
+BNDC|Hardcover
+BOOC|Good
+BSAT|36
+BSAT|10
+BSAT|18
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1562954049115
+ANAM|Washington, Booker T.
+TNAM|Up From Slavery: An Autobiography by Booker T. Washington
+PBLS|A. L. Burt Co.
+PBYR|1901
+SUB1|MEMOIR
+DESC|A.L. Burt Co, 1901. Later printing (post-1914) with 23rd street and Chicago locations listed on back of jacket. VG+/G condition with two chunks of jacket missing.
+PRIC|95.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|18
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563466868215
+ANAM|Graves, Robert
+TNAM|Good-Bye To All That: An Autobiography
+PBLS|Jonathan Cape & Harrison Smith
+PBYR|1930
+SUB1|MEMOIR
+DESC|Jonathan Cape & Harrison Smith, 1930. First edition, third printing (before publication). Blind-stamped maroon boards, soiling and faded lettering on spine.
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563467973885
+ANAM|Scott, Sir Walter
+TNAM|Peveril of the Peak [4 vols]
+PBLS|Archibald Constable & co.
+PBYR|1822
+SUB1|LITERATURE
+DESC|Archibald Constable & co., 1822. First edition. Halfbound in leather with marbled sides, marbled endpapers. Gilt tops of pages. Black and gilt stamped decoration on spines. Some yellowing to marbled sides around edges, minimal foxing and some irregular pages, bumping to bottoms of boards. Otherwise very nice with strong binding and bright, clean pages in readable condition. All vols have half-title pages.
+PRIC|240.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563468220770
+ANAM|Waber, Bernard
+TNAM|Lyle At Christmas
+PBLS|Houghton Mifflin Co.
+PBYR|1998
+SUB1|CHILDRENS
+DESC|Houghton Mifflin Co. first edition, 1998. Inscribed and signed by the author. Fine in Near Fine, unclipped jacket
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Fine
+BSAT|16
+BSAT|7
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563474793049
+ANAM|Tolstoy, Leo
+TNAM|War and Peace
+PBLS|Modern Library
+PBYR|1931
+SUB1|LITERATURE,MODERN LIBRARY
+DESC|Modern Library G1, stated first edition, 1931. hardcover in VG condition with browned spine, sticker residue in front endpaper and small stamp in back endpaper. Text otherwise bright and clean in strong binding.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563475293839
+ANAM|Fair, A.A.
+TNAM|Bedrooms Have Windows
+PBLS|William Morrow & Co.
+PBYR|1949
+SUB1|LITERATURE,CRIME
+DESC|William Morrow & Co. 1949. First edition, second printing (February 1949; 1st was January of same year). Light blue boards with dark blue lettering and window design to spine of book. NF/VG text and jacket with few flaws; some scuffing and small rips on jacket, as well as blunting to bottom of hardcover spine. Name in pen inside flap of jacket. Not price clipped.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Good
+BSAT|22
+BSAT|36
+BSAT|10
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563476314908
+ANAM|cummings, e.e.
+TNAM|1 x 1 [One Times One]
+PBLS|Holt & Co.
+PBYR|1944
+SUB1|POETRY
+DESC|Holt & Co first edition, 1944. VG+/VG with scuffing and small rips to jacket, as well as strip missing along spine and back top. Jacket has small clips to all four corners. Text is clean and unfoxed with some pencil marks, as well as pencil inscription in endpaper. Front endpaper beginning to yellow. Large self-portrait by author featured on back of jacket.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563476741256
+ANAM|Stanley, Henry M.
+TNAM|In Darkest Africa Or The Quest, Rescue, And Retreat Of Emin Governor Of Equatoria [2 vols]
+PBLS|Scribner's Sons
+PBYR|1890
+SUB1|MEMOIR
+DESC|Scribner's sons first edition 1890, 2 vols. Frontispieces of Stanley with browned but intact protective tissue. All three maps in pockets. Green clothbound with imprinted map of African continent, gilt lettering on front and spine (gilting is faded on spine). VG+ with very bright and clean text in strong binding with bumping, scuffing to spines only.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563484829721
+ANAM|Nicholson, Harold
+TNAM|The Congress of Vienna
+PBLS|Constable & co
+PBYR|1946
+SUB1|HISTORY,NONFICTION
+DESC|Constable & co, 1946. hardcover/jacket in NF/VG condition. Illustrated endpapers and frontispiece. Jacket has some rubbing, cracking around sides, soiling to back.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563484881259
+ANAM|Green, Henry
+TNAM|Nothing
+PBLS|Hogarth Press
+PBYR|1950
+SUB1|LITERATURE
+DESC|Hogarth, 1950 (presumed first). hardcover/jacket in VG+/VG+ condition. some chipping to jacket at spine.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563485005540
+ANAM|Heller, Joseph
+TNAM|Closing Time
+PBLS|Simon & Schuster
+PBYR|1994
+SUB1|LITERATURE
+DESC|Simon & Schuster first edition, 1994. Number 625 of 750 copies signed by the author. Fine in fine slipcase.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+SIGN|I
+SGNT|Signed by Author(s)
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|1
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563485088344
+ANAM|Abbey, Kieran
+TNAM|And Let The Coffin Pass
+PBLS|Scribner's Sons
+PBYR|1942
+SUB1|LITERATURE
+DESC|Scribner's Sons 1942. first edition (possibly ex-library). text and binding are in good condition, some wear to bottoms of boards. printing on front and spine are clean and bright. jacket is fair with small chips all along edges, some portions of spine are missing.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Fair
+BNDC|Hardcover
+BOOC|Good
+BSAT|22
+BSAT|36
+BSAT|19
+BSAT|10
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563562772941
+ANAM|Austen, Jane
+TNAM|Jane Austen's Novels in Ten Volumes (R. Brimley Johnson ed.)
+PBLS|J. M. Dent and Co
+PBYR|1904
+SUB1|LITERATURE,SET
+DESC|Mix of 5th and 6th editions, dated 1904 to 1909. All hardcovers are in very good condition, with some staining to the fronts of Persuasion and Mansfield Park [vol 1]. Green clothbound beginning to yellow around perimeters. Stamped and gilt illustrations on fronts and spines.
+PRIC|700.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+EDNT|5th or later Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|26
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563564816706
+ANAM|McCaffrey, Anne
+TNAM|Dragonsinger
+PBLS|Athenium
+PBYR|1977
+SUB1|FANTASY,LITERATURE
+DESC|Signed by author. In Fine/NF condition with light scuffing, two tears on jacket: one at top front edge of jacket, and a longer one at the bottom back hinge of the spine.
+PRIC|175.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+SIGN|I
+SGNT|Signed by Author(s)
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Fine
+BSAT|16
+BSAT|7
+BSAT|22
+BSAT|36
+BSAT|1
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563564995572
+ANAM|Astaire, Fred
+TNAM|Steps in Time
+PBLS|Harper & Brothers
+PBYR|1959
+SUB1|MEMOIR,DRAMA
+DESC|Harper & Brothers 1959. First edition. Signed by author. Text is in excellent condition with bright, clean pages. Black cloth boards, with dust soiling near top and especially bottom of spine.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+SIGN|I
+SGNT|Signed by Author(s)
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|1
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563568332402
+ANAM|Goudey, Alice E.
+TNAM|Five Illustrated Childrens' Books By Alice E. Goudey
+PBLS|Scribner's Sons
+PBYR|1954
+SUB1|CHILDRENS
+DESC|Here Come The Lions! (Scribner's Sons 1956, First Edition); Here Come The Bears! (Scribner's Sons 1954, First Edition); Here Come The Seals! (Scribner's Sons 1957, Later Edition); Here Come The Raccoons! (Scribner's Sons 1959, Later Edition); Here Come The Beavers! (Scribner's Sons 1957, Later Edition). All vols are Fine in illustrated hardcovers. Jackets are VG+ to NF with occasional, small rips or pieces missing, particularly around tops and bottoms of spine. All jackets are price-clipped except for 'Raccoons!' Illustrations by Garry MacKenzie.
+PRIC|600.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563573946693
+ANAM|Churchill, Fleetwood
+TNAM|On The Theory and Practice of Midwifery, with One Hundred and Thirty-Nine Illustrations
+PBLS|Blanchard and Lea
+PBYR|1853
+SUB1|MEDICAL,TEXTBOOK,NONFICTION
+DESC|Leatherbound in VG+ condition with some rubbing, scuffs and scratches. Stamped title on spine is faded but remains legible. Light foxing throughout; binding has loosened somewhat between middle two signatures. Stamp in front free endpaper has left slight impression on pastedown.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563574267919
+ANAM|Trumbull, Henry
+TNAM|History of The Indian Wars
+PBLS|Phillips and Sampson
+PBYR|1846
+SUB1|HISTORY,NONFICTION
+DESC|Phillips and Sampson New Edition 1846. Hand-Colored Foled-out Fronts. Torn & Needs Restoration. Brown impressed clothbound with gilt lettering, illustration on spine in decent condition.
+PRIC|200.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Good
+BSAT|21
+BSAT|36
+BSAT|10
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563574383521
+ANAM|O'Brien, Frank M.
+TNAM|The Story of The Sun, New York: 1833-1928
+PBLS|D. Appleton & Co
+PBYR|1928
+SUB1|HISTORY,NONFICTION
+DESC|New edition. Maroon clothbound with gilt lettering, decoration on cover and spine. Inscribed on second page, dated January 12, 1938 by William T. Dewart, to whom the new edition is dedicated
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563822868982
+ANAM|Brookner, Anita
+TNAM|Hotel du Lac
+PBLS|Jonathan Cape
+PBYR|1984
+SUB1|LITERATURE
+DESC|First edition. hardcover/jacket in VG+/VG+ condition with browned pages, jacket has light creasing, rubbing.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563822972609
+ANAM|Irving, Washington
+TNAM|Tales of a Traveller [2 vols]
+PBLS|Putnam's sons
+PBYR|1895
+SUB1|MEMOIR
+DESC|Buckthorne edition. Hardcover w/o jacket in NF condition. Printed in black and red. Photographic plates. Frontispiece with protective tissue. Blue clothbound with decorations on front and spine in gilt, black and green. Gilt tops of pages. Gilding is very bright and clean
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563823210394
+ANAM|Waugh, Evelyn
+TNAM|Scoop
+PBLS|Chapman & Hall
+PBYR|1938
+SUB1|LITERATURE
+DESC|first edition. hardcover w/o jacket in black/red marbled cloth. gilt lettering on spine in very good condition. VG overall, with light sunning to spine.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563823304169
+ANAM|Frost, Robert
+TNAM|A Witness Tree
+PBLS|Henry Holt
+PBYR|1942
+SUB1|POETRY
+DESC|First edition. hardcover/jacket in VG/VG condition. large pen inscription on first page. jacket has snag on spine
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563823397267
+ANAM|Hellman, Lillian
+TNAM|The Searching Wind
+PBLS|Viking
+PBYR|1944
+SUB1|LITERATURE
+DESC|First US edition. hardcover/jacket in VG+/VG condition, jacket has light chipping to corners, some discolouration on back.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842366028
+ANAM|Flanner, Janet [Gênet]
+TNAM|An American In Paris
+PBLS|Simon & Schuster
+PBYR|1940
+SUB1|MEMOIR
+DESC|hardcover/jacket in VG/VG condition. grey clothbound with slight bumping to edges, jacket is chipped and edgeworn.
+PRIC|70.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842436412
+ANAM|Waugh, Evelyn
+TNAM|Unconditional Surrender
+PBLS|Chapman & Hall
+PBYR|1961
+SUB1|LITERATURE
+DESC|Hardcover/jacket in NF/NF condition, very light browning to back of jacket, light rubbing to bottom corners of boards.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+BIND|H
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842515466
+ANAM|Woodham-Smith, Cecil
+TNAM|The Great Hunger
+PBLS|Harper & Row
+PBYR|1962
+SUB1|LITERATURE
+DESC|Harper & Row stated first edition, 1962. Green clothbound hardcover w/o jacket, inscribed and signed by the author to stage actress Cornelia Otis Skinner, whose bookplate is in the paste-down. discoloration in endpaper from newspaper clipping that has been kept inside.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+SIGN|I
+SGNT|Inscribed by Author(s)
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|2
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842585055
+ANAM|Moore, Brian
+TNAM|The Temptation of Eileen Hughes
+PBLS|Jonathan Cape
+PBYR|1981
+DESC|Jonathan Cape, 1981. hardcover/jacket in Fine/Fine condition.
+PRIC|45.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+BIND|H
+JCKC|Fine
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|15
+BSAT|36
+BSAT|49
+BSAT|47
+BOOE|
+BOOS|
+BOOK|ABE-1563842672715
+ANAM|Huxley, Aldous
+TNAM|Collected Short Stories
+PBLS|Chatto & Windus
+PBYR|1957
+SUB1|LITERATURE
+DESC|hardcover/jacket in VG/VG condition. Text is bright and clean in blue cloth with some dirt and wear to tops and bottoms of boards, bumping to spine. Rectangle of browning on front endpaper. Jacket has sunning to spine and around top front edge, as well as one crack/split in bottom right quadrant, and one near bottom of spine, and dirt/soiling throughout.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842753288
+ANAM|Rouchefoucault, Duke de la
+TNAM|Moral Maxims by the Duke de la Rouchefoucault
+PBLS|The Golden Cockerel Press
+PBYR|1924
+DESC|The Golden Cockerel Press, 1924. VG. Blue boards with cream spine, one of 325 numbered copies. Printed in black and blue. Untrimmed pages in excellent condition with few to no visible marks. Binding has some dust-soiling and trivial scuffs. Bookplate.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842839982
+ANAM|Auden, W.H.
+TNAM|The Age of Anxiety
+PBLS|Faber & Faber
+PBYR|1948
+SUB1|LITERATURE
+DESC|Faber & Faber, 1948. hardcover/jacket in VG/VG condition, stamp and bookseller sticker in endpapers. Browning to jacket in extremities and on spine. Clip to bottom front corner of jacket.
+PRIC|60.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563842894243
+ANAM|Barker, Pat
+TNAM|The Eye in The Door
+PBLS|Viking
+PBYR|1986
+SUB1|LITERATURE
+DESC|Viking stated first edition, 1986. hardcover/jacket in NF/NF to fine condition, with only light bumpting to spine of binding and jacket.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904004807
+ANAM|Raven, Simon
+TNAM|The Rich Pay Late
+PBLS|Anthony Blond
+PBYR|1964
+SUB1|LITERATURE
+DESC|hardcover/jacket in NF/NF condition with sticker residue in front pastedown, very light foxing to exteriors of pages only, some bumping to bottom spine of hardcover. jacket also has very light bumping on top and bottom of spine, is otherwise very vivid and clean.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904147045
+ANAM|Rothenstein, William
+TNAM|Men and Memories: Recollections of William Rothenstein [3 vols]
+PBLS|Faber and Faber
+PBYR|1931
+SUB1|MEMOIR
+DESC|[Men and Memories: Recollections of William Rothenstein, 1872-1900] Faber and Faber, second impression February 1931. hardcover w/o jacket, VG. black clothbound with gilt decoration/text on front and spine. Some sunning to spine. Gilt tops of pages show some light scuffs and age, sides and bottoms of pages untrimmed. Frontispiece, illustrations. some wear to boards on corners and bottoms. Plate of Lodget. [Men and Memories: Recollections of William Rothenstein, 1900-1922] Faber and Faber, first impression April 1932. hardcover w/o jacket, VG. black clothbound with gilt decoration/text on front and spine. Some sunning to spine. Gilt tops of pages show some light scuffs and age, sides and bottoms of pages untrimmed. Frontispiece, illustrations. some wear to boards on corners and bottoms. Plate of Lodget. [Since Fifty: Men and Memories, 1922-1938] Faber and Faber, first impression 1939. hardvoer w/o jacket, VG. black clothbound with gilt lettering on spine. Frontispiece with protective tissue loose. Rubbing to top and bottom of boards, and to hinges of spine.
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904200371
+ANAM|Flanner, Janet [Gênet]
+TNAM|Paris Journal 1944-1965
+PBLS|Victor Gollancz
+PBYR|1966
+SUB1|MEMOIR
+DESC|hardcover/jacket, VG+/VG. blue clothbound with some discolouration to bottom of spine, light foxing on the exteriors of pages. Jacket is price clipped, has some soiling, foxing, very slight wear at spine and sides.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904248315
+ANAM|Amis, Kingsley
+TNAM|Take a Girl Like You
+PBLS|Victor Gollancz
+PBYR|1960
+SUB1|LITERATURE
+DESC|hardcover/jacket in VG/VG condition. red clothbound with light fading to bottom of spine, one small puncture in very bottom of front board. text slightly yellow with foxing in endpapers. Jacket has sunning/browning around edges, a few other spots. on front and back, some stress to top and bottom.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904454178
+ANAM|Raven, Simon
+TNAM|The Feathers of Death
+PBLS|Anthony Blond
+PBYR|1959
+SUB1|LITERATURE
+DESC|presumed first printing, 1959. hardcover/jacket in VG+/VG+ condition. black clothbound with small stain to fore-edge, jacket is slightly rubbed with some light marks and sunning to spine. some water marks to sides of pages
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904528802
+ANAM|Baudelaire, Charles
+TNAM|Intimate Journals
+PBLS|Random House
+PBYR|1930
+SUB1|MEMOIR
+DESC|first edition. Numbered copy (#615). hardcover w/o jacket in VG condition. Frontispiece, bookplate, slight damage to top and bottom spine, light browning to extremities of boards.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904689516
+ANAM|Nordhoff, Charles [with James Norman Hall]
+TNAM|Mutiny on The Bounty
+PBLS|Little, Brown & co
+PBYR|1932
+SUB1|LITERATURE
+DESC|hardcover/jacket in VG/VG condition. Spine faded, later issue with pictorial endpapers. Jacket with chipping to top and bottom of spine which has been replaced internally and externally with tape.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904760790
+ANAM|Huxley, Aldous
+TNAM|The Devils of Loudun
+PBLS|Chatto & Windus
+PBYR|1952
+SUB1|LITERATURE
+DESC|First edition, 1952. hardcover/jacket in NF/VG+ condition, some spotting to dust jacket, foxing in endpaper.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904818741
+ANAM|Stockton, Frank R.
+TNAM|What Might Have Been Expected
+PBLS|Dodd, Mead & co
+PBYR|1874
+DESC|Hardcover w/o jacket. VG+. Grey clothbound with two-colour illustration on front and spine, with additional gilding on spine in very good condition. Frontispiece with protective tissue, illustrations. Text is bright and clean with no visible foxing or flaws. Boards are curled in and show light wear on sides. Bumping to top and bottom of spine. Two nicks on back panel.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904892971
+ANAM|Welch, Denton
+TNAM|A Voice Through A Cloud
+PBLS|John Lehman
+PBYR|1950
+SUB1|LITERATURE
+DESC|John Lehman presumed first, 1950. hardcover/jacket in NF/VG condition. hardcover is clean and intact with only dust on tops of pages and one spot near spine. Jacket has soiling, some light cracking.
+PRIC|60.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563904983386
+ANAM|Wiggin, Kate Douglas
+TNAM|Penelope's English Experiences; Penelope's Progress [2 vols]
+PBLS|Houghton Mifflin
+PBYR|1901
+SUB1|LITERATURE
+DESC|Houghton Mifflin, 1901. hardcover w/o jacket. Green clothbound with gilt lettering and decorations on fronts and spines. Illustrations by C.E. Brock. Frontispiece w/ protective tissue in each volume. orange spots on both books which look like possible bleach stains. Otherwise VG condition with gilt tops of pages, very light rubbing at spine and corners of boards. text is remarkably clean and bright without visible foxing or yellowing.
+PRIC|80.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563905266739
+ANAM|Cary, Joyce
+TNAM|Mister Johnson
+PBLS|Harper & Brothers
+SUB1|LITERATURE
+DESC|Harper & Brothers stated first edition, without copyright year. hardcover/jacket, NF/VG with some chipping to spine of jacket, very light rubbing and cracking along bottom edge.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563915962723
+ANAM|Williams, Archibald
+TNAM|The Romance of Modern Exploration
+PBLS|J.P. Lippincott Co
+PBYR|1905
+DESC|hardcover with gilt illustration. some damage to front of cover, breakages around edges. with photographic plates.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563916226616
+ANAM|Wedgwood, Hensleigh
+TNAM|Wedgwood's English Etymology, Second Edition
+PBLS|Trubner & Co
+PBYR|1872
+SUB1|NONFICTION,REFERENCE
+DESC|Leatherbound with marble sides, gilt text on spine. Some wear to boards around hinges and weakened binding. Pages are slightly warped from age but otherwise clean and in very good condition.
+PRIC|300.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+EDNT|2nd Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|23
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1563916368684
+ANAM|Lucia
+TNAM|The Life of Count Cagliostro
+PBLS|T. Hookham
+PBYR|1787
+SUB1|BIOGRAPHY,NONFICTION
+DESC|T. Hookham. Second edition, 1787. half-bound in leather with marbled sides. text is very good with yellowing around edges. Bookplate
+PRIC|400.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+EDNT|2nd Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|23
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564161603910
+ANAM|du Maurier, Daphne
+TNAM|The du Mauriers
+PBLS|Victor Gollancz Ltd
+PBYR|1937
+DESC|Hardcover and jacket both in very good condition. gilt on spine is dull, bookplate in front pastedown, small bookseller's sticker in back pastedown. small rip to back page before endpaper. Family tree pull out page of the Du Mauriers intact at the end of the book
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564161946161
+ANAM|Johnson, Merle [editor]
+TNAM|High Spots of American Literature
+PBLS|Bennett Book Studios
+PBYR|1929
+SUB1|ANTHOLOGY,LITERATURE
+DESC|Numbered edition, 52 of 750. VG+. Leatherbound with marbled paper, top edge gilt. Features Emerson, Harte, Melville, Clemens and many others.
+PRIC|60.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564162588008
+ANAM|Grant, Ulysses S.
+TNAM|Personal Memoirs of U.S. Grant [2 Vols]
+PBLS|Charles L. Webster & Co
+PBYR|1892
+SUB1|MEMOIR,POLITICS
+DESC|Green clothbound with gilt lettering and seals on front and rear. faded gilt on spine.
+PRIC|180.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564162680805
+ANAM|Marks, Edward B. [as Told to Abbott J. Liebling]
+TNAM|They All Sang: From Tony Pastor To Rudy Vallée
+PBLS|Viking press
+PBYR|1934
+SUB1|NONFICTION
+DESC|Damage to jacket, but otherwise good condition with very vivid colour. pages are lightly yellowed. photo plates throughout. gilt on cover (behind jacket) is very bright.
+PRIC|100.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564163262094
+ANAM|Cussler, Clive
+TNAM|The Mediterranean Caper [Dirk Pitt Novel]
+PBLS|Simon & Schuster
+PBYR|1973
+SUB1|CRIME,LITERATURE
+DESC|With introduction dated 1995. First thus. Books is NF in a fine jacket. Small spot on exterior of pages.
+PRIC|120.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+BIND|H
+JCKC|Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|15
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564163628179
+ANAM|Hesse, Herman
+TNAM|Journey To The East
+PBLS|Farrar, Straus & Giroux
+PBYR|1968
+SUB1|LITERATURE
+DESC|First Farrar, Straus & Giroux Printing, 1968. VG+/VG+, clean bright pages and dust jacket with only minor scuffs (predominantly at spine). Stamped "Congregation Emanu-el of the City of New York" and "18,225" in pen on second leaf.
+PRIC|110.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564163915598
+ANAM|Hemingway, Ernest
+TNAM|Death in The Afternoon
+PBLS|Scribner's sons
+PBYR|1932
+SUB1|LITERATURE
+DESC|Full colour frontispiece (The Bull Fighter by Juan Gris) with protective tissue. First edition, probably second printing. Black clothbound without jacket with gilt signature on front, gilt decoration on spine which is substantially faded. Back board is attached but loose. Bumping, rubbing to top and bottom of spine. VG+. Plate of Skinner/Blodget
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564164456345
+ANAM|Froude, J.A.
+TNAM|The Book of Job
+PBLS|Trübner & Co
+PBYR|1853
+DESC|First edition. Reprinted from The Westminster Review, New Series, Vol. VIII, Oct. 1853. Brown leather and cloth half-binding with gilt lettering, decoration on spine. Gilt tops of pages. Marble endpapers. NF
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564164509033
+ANAM|Pangborn, Edgar
+TNAM|Davy
+PBLS|St. Martin's Press
+PBYR|1964
+SUB1|LITERATURE
+DESC|Presumed first. Text is VG with light foxing on front endpaper. Red boards with cream spine, black and red lettering on spine. Outer is generally good, with some discoloration around edges, spine. No jacket. Inscribed and signed by author.
+PRIC|90.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564454227365
+ANAM|Carnegie, Dale
+TNAM|Lincoln The Unknown
+PBLS|D. Appleton-Century
+PBYR|1941
+SUB1|NONFICTION,HISTORY
+DESC|D. Appleton-Century 1941 (copyright date is 1932), inscribed and signed by author in endpaper: To my dear O.K. / as Abe Lincoln used to say: may you pluck a thistle and plant a flower wherever you feel a flower will grow / Dale. hardcover/jacket in VG/poor condition, jacket has some substantial rips and pieces missing
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+JCKC|Poor
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|20
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564454320750
+ANAM|Parrish, Anne
+TNAM|The Perennial Bachelor
+PBLS|Harper & Brothers
+PBYR|1925
+SUB1|LITERATURE
+DESC|Eleventh printing, Nov 1925. Harper prize novel limited edition, signed by author opposite copyright page. Inscribed after endpaper (not by author). Hardcover with jacket, hardcover is in very good condition, jacket is brilliant gold leaf with black and red lettering in good condition, with some significant pieces missing from bottom, spine and corners.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+JACK|J
+SIGN|I
+SGNT|Signed by Author(s)
+JCKC|Fair
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|19
+BSAT|1
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564454398103
+ANAM|Matthiessen, Peter
+TNAM|At Play In The Fields of The Lord
+PBLS|Random House
+PBYR|1965
+SUB1|LITERATURE
+DESC|Random House stated first printing, 1965. hardcover/jacket in Fine/VG condition. cream boards with large, gilt decoration on front. tops of pages stained red with some trivial nicks, sides of pages untrimmed and very slightly dusty. jacket is very lightly dust-soiled and has some bumping to spine, with one nick at the top and one small puncture at the bottom.
+PRIC|40.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564693204972
+ANAM|Weiss, Peter
+TNAM|The Persecution and Assassination of Jean-Paul Marat As Performed by the Inmates of the Asylum of Charenton Under the Direction of The Marquis de Sade
+PBLS|Atheneum
+PBYR|1965
+SUB1|DRAMA,LITERATURE
+DESC|First American edition. some spots, other light wear to jacket.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564693272595
+ANAM|Brown, Walter C.
+TNAM|The Second Guess
+PBLS|J.B. Lippincott co.
+PBYR|1929
+SUB1|LITERATURE
+DESC|First edition, second impression. Dust soiling to tops of boards and pages, heavy dust soiling to jacket, some yellowing in endpapers. binding has weakened between back board and spine.
+PRIC|75.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|18
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1564693343665
+ANAM|Ryskind, Morrie
+TNAM|Unaccustomed as I Am
+PBLS|Knopf
+PBYR|1921
+SUB1|LITERATURE
+DESC|Inscribed and signed by author, dated Christmas 1923. Most pages remain unseparated. Paper of hardcover spine has large piece missing, with remainder coming loose. Significant browning, bumping to edges.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/02/2019
+UPTM|14:45:13
+BIND|H
+SIGN|I
+SGNT|Signed by Author(s)
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Fair
+BSAT|21
+BSAT|36
+BSAT|11
+BSAT|1
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1565058212409
+ANAM|Lem, Stanislaw
+TNAM|Memoirs Found in a Bathtub
+PBLS|Seabury Press
+PBYR|1973
+SUB1|SCIENCE FICTION,LITERATURE
+DESC|First American Edition. White-out in front endpaper. Very minor edgewear at bottom of spine of jacket, other trivial marks
+PRIC|45.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/05/2019
+UPTM|19:27:10
+JACK|J
+EDTN|F
+BIND|H
+EDNT|1st Edition
+JCKC|Near Fine
+BNDC|Hardcover
+BOOC|Near Fine
+BSAT|8
+BSAT|16
+BSAT|22
+BSAT|36
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1565058252884
+ANAM|King, Stephen
+TNAM|Pet Semetary
+PBLS|Doubleday & Co
+PBYR|1983
+SUB1|HORROR,LITERATURE
+DESC|First printing. Some fading, bumping, dust-soiling to boards of hardcover. Jacket has cracking, small pieces missing, rubbing all around edges, particularly on front fold and to top and bottom of spine.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/05/2019
+UPTM|19:27:21
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|22
+BSAT|36
+BSAT|9
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1565058386556
+ANAM|Conroy, Frank
+TNAM|Stop-Time
+PBLS|Viking
+PBYR|1967
+SUB1|LITERATURE
+DESC|Fine in a VG+ price-clipped jacket with edgewear, some cracking along top edge, as well as pink spots and additional, very light soiling on back. bottom spine of jacket has been lightly bumped. Pen in front after endpaper.
+PRIC|45.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/05/2019
+UPTM|19:27:55
+EDTN|F
+BIND|H
+JACK|J
+EDNT|1st Edition
+JCKC|Very Good
+BNDC|Hardcover
+BOOC|Fine
+BSAT|7
+BSAT|22
+BSAT|36
+BSAT|17
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1565632923121
+ANAM|Case, Josephine Young
+TNAM|At Midnight on the 31st of March
+PBLS|Houghton Mifflin
+PBYR|1938
+SUB1|LITERATURE
+DESC|Appears to be signed by author. Chipping to jacket, some dust-soiling and other trivial marks to both jacket and boards.
+PRIC|50.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/12/2019
+UPTM|11:05:37
+BIND|H
+JACK|J
+SIGN|I
+SGNT|Signed by Author(s)
+JCKC|Good
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|36
+BSAT|18
+BSAT|1
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
+BOOS|
+BOOK|ABE-1565633081254
+ANAM|Wheeler, Hugh
+TNAM|The Crippled Muse
+PBLS|Rinehart & co
+PBYR|1952
+SUB1|LITERATURE
+DESC|Presumed first US edition, 1952. Crimson leatherbound with gilt decoration on both interiors and exteriors of boards, spine. Marbled endpapers. slight scuffing on boards, very light weakening visible at hinges.
+PRIC|150.0
+QNTY|1
+QLMT|0
+LANG|eng
+UPDT|08/12/2019
+UPTM|11:05:47
+BIND|H
+JCKC|No Jacket
+BNDC|Hardcover
+BOOC|Very Good
+BSAT|21
+BSAT|36
+BSAT|9
+BSAT|49
+BSAT|45
+BOOE|
