@@ -9,8 +9,14 @@ const fixtures = path.join(__dirname, 'fixtures');
  * @param  {Book} book Parsed book returned by Parser
  */
 function assumeValidBook(book) {
-  // Indexing
-  assume(book['book-number']).is.a('number');
+  // Book numbers may be strings or integers
+  if (/^ABE-/.test(book['book-number'])) {
+    assume(book['book-number']).is.a('string');
+  } else {
+    assume(book['book-number']).is.a('number');
+  }
+
+  // Additional indexing / book identifiers
   if (book.ISBN) assume(book.ISBN).is.a('string');
   assume(book.status).is.either(['Sold', 'For Sale']);
   assume(book['last-updated']).is.a('date');
@@ -25,7 +31,7 @@ function assumeValidBook(book) {
   if (book['book-type']) assume(book['book-type']).is.a('string');
   assume(book.description).is.a('string');
   assume(book.categories).is.an('array');
-  if (book.keywords) assume(book.keywords).is.an('array')
+  assume(book.keywords).is.an('array')
   if (book.comments) assume(book.comments).is.a('string');
   if (book.size) assume(book.size).is.a('string');
 
@@ -35,14 +41,14 @@ function assumeValidBook(book) {
   assume(book['binding']).is.a('string');
 
   // Publisher
-  assume(book['publisher']).is.a('string');
+  if (book['publisher']) assume(book['publisher']).is.a('string');
   if (book['publish-year']) assume(book['publish-year']).is.a('number');
-  assume(book['publish-place']).is.a('string');
-  assume(book['edition']).is.a('string');
+  if (book['publish-place']) assume(book['publish-place']).is.a('string');
+  if (book['edition']) assume(book['edition']).is.a('string');
 
   // Value
   assume(book.price).is.a('number');
-  assume(book.cost).is.a('number');
+  if (book.cost) assume(book.cost).is.a('number');
 }
 
 /*
@@ -73,5 +79,9 @@ describe('homebase-parser', function () {
 
   it('reads a file larger than the highwater mark (240kb)',
     assumeParsedBooks('general-fiction.txt', 154)
+  );
+
+  it('reads web-based exports from ABE in Homebase format',
+    assumeParsedBooks('web-export.txt', 107)
   );
 });
