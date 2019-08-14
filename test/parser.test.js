@@ -26,7 +26,7 @@ describe('Parser', function () {
     assume(book['publisher']).equals('MacAdam/Cage');
     assume(book['description']).equals('Softcover Advance Proof copy of author\'s first novel.');
     assume(book['price']).equals(6);
-    assume(book['last-updated']).deep.equals(new Date('2010-06-15T04:00:00.000Z'));
+    assume(book['last-updated']).deep.equals(new Date('06/15/2010'));
     assume(book['categories']).deep.equals(['ARCs/Uncorrected Proofs']);
     assume(book['ISBN']).equals('1931561028');
     assume(book['edition']).equals('Uncorrected Proof');
@@ -40,6 +40,5 @@ describe('Parser', function () {
     assume(book['status']).equals('For Sale');
     assume(book['cost']).equals(1);
     assume(book['comments']).equals('SHELF 9');
-
   });
 });
