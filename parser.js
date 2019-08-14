@@ -52,6 +52,15 @@ module.exports = class Parser {
       .forEach(this.parseLine);
   }
 
+  parseBookEnd() {
+    return {
+      status: 'For Sale',
+      categories: [],
+      keywords: [],
+      ...this.current
+    };
+  }
+
   parseLine(line) {
     debug.read(line);
 
@@ -64,8 +73,9 @@ module.exports = class Parser {
     const [, field, value] = match;
     if (field === control.end) {
       // BOOE pushes the next book onto the list of all books parsed
-      debug.book("Parsed %j", this.current);
-      this.books.push(this.current);
+      const book = this.parseBookEnd();
+      debug.book("Parsed %j", book);
+      this.books.push(book);
     } else if (field === control.start) {
       // BOOS starts tracking a new book internally.
       // Only one book at a time.
