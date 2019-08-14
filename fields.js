@@ -107,7 +107,12 @@ const types = {
 
   // Integers
   PBYR: shared.integer,
-  BOOK: shared.integer,
+  BOOK: (value) => {
+    const intval = parseInt(value, 10);
+    return Number.isNaN(intval)
+      ? value
+      : intval;
+  },
 
   // Decimal
   PRIC: shared.float,
